@@ -1,0 +1,241 @@
+iso_code,name,region,area
+AF,Afghanistan,South Asia,652230.0
+AL,Albania,Europe,28748.0
+DZ,Algeria,Africa,2381740.0
+AS,American Samoa,Australia-Oceania,224.0
+AD,Andorra,Europe,468.0
+AO,Angola,Africa,1246700.0
+AI,Anguilla,Central America and Caribbean,91.0
+AQ,Antarctica,Antarctica,
+AG,Antigua and Barbuda,Central America and Caribbean,443.0
+AR,Argentina,South America,2780400.0
+AM,Armenia,Middle East,29743.0
+AW,Aruba,Central America and Caribbean,180.0
+AU,Australia,Australia-Oceania,7741220.0
+AT,Austria,Europe,83871.0
+AZ,Azerbaijan,Middle East,86600.0
+BH,Bahrain,Middle East,760.0
+BD,Bangladesh,South Asia,148460.0
+BB,Barbados,Central America and Caribbean,430.0
+BY,Belarus,Europe,207600.0
+BE,Belgium,Europe,30528.0
+BZ,Belize,Central America and Caribbean,22966.0
+BJ,Benin,Africa,112622.0
+BM,Bermuda,North America,54.0
+BT,Bhutan,South Asia,38394.0
+BO,Bolivia,South America,1098581.0
+BA,Bosnia and Herzegovina,Europe,51197.0
+BW,Botswana,Africa,581730.0
+BV,Bouvet Island,Antarctica,49.0
+BR,Brazil,South America,8515770.0
+IO,British Indian Ocean Territory,South Asia,60.0
+VG,British Virgin Islands,Central America and Caribbean,151.0
+BN,Brunei,East and Southeast Asia,5765.0
+BG,Bulgaria,Europe,110879.0
+BF,Burkina Faso,Africa,274200.0
+MM,Burma,East and Southeast Asia,676578.0
+BI,Burundi,Africa,27830.0
+CV,Cabo Verde,Africa,4033.0
+KH,Cambodia,East and Southeast Asia,181035.0
+CM,Cameroon,Africa,475440.0
+CA,Canada,North America,9984670.0
+KY,Cayman Islands,Central America and Caribbean,264.0
+CF,Central African Republic,Africa,622984.0
+TD,Chad,Africa,
+CL,Chile,South America,756102.0
+CN,China,East and Southeast Asia,9596960.0
+CX,Christmas Island,Australia-Oceania,135.0
+CC,Cocos (Keeling) Islands,Australia-Oceania,14.0
+CO,Colombia,South America,1138910.0
+KM,Comoros,Africa,2235.0
+CG,Congo (Brazzaville),Africa,342000.0
+CK,Cook Islands,Australia-Oceania,236.0
+CR,Costa Rica,Central America and Caribbean,51100.0
+CI,Côte d'Ivoire,Africa,322463.0
+HR,Croatia,Europe,56594.0
+CU,Cuba,Central America and Caribbean,110860.0
+CW,Curacao,Central America and Caribbean,444.0
+CY,Cyprus,Europe,9251.0
+CZ,Czechia,Europe,78867.0
+DK,Denmark,Europe,43094.0
+DJ,Djibouti,Africa,23200.0
+DM,Dominica,Central America and Caribbean,751.0
+CD,DRC,Africa,2344858.0
+EC,Ecuador,South America,283561.0
+EG,Egypt,Africa,1001450.0
+SV,El Salvador,Central America and Caribbean,21041.0
+GQ,Equatorial Guinea,Africa,28051.0
+ER,Eritrea,Africa,117600.0
+EE,Estonia,Europe,45228.0
+SZ,Eswatini,Africa,17364.0
+ET,Ethiopia,Africa,1104300.0
+FK,Falkland Islands (Islas Malvinas),South America,12173.0
+FO,Faroe Islands,Europe,1393.0
+FM,Federated States of Micronesia,Australia-Oceania,702.0
+FJ,Fiji,Australia-Oceania,18274.0
+FI,Finland,Europe,338145.0
+FR,France,Europe,643801.0
+PF,French Polynesia,Australia-Oceania,4167.0
+TF,French Southern and Antarctic Lands,Antarctica,55.0
+GA,Gabon,Africa,267667.0
+PS,Palestine,Middle East,6220.0
+GE,Georgia,Middle East,69700.0
+DE,Germany,Europe,357022.0
+GH,Ghana,Africa,238533.0
+GI,Gibraltar,Europe,7.0
+GR,Greece,Europe,131957.0
+GL,Greenland,North America,2166086.0
+GD,Grenada,Central America and Caribbean,344.0
+GU,Guam,Australia-Oceania,544.0
+GT,Guatemala,Central America and Caribbean,108889.0
+GG,Guernsey,Europe,78.0
+GN,Guinea,Africa,245857.0
+GW,Guinea-Bissau,Africa,36125.0
+GY,Guyana,South America,214969.0
+HT,Haiti,Central America and Caribbean,27750.0
+HM,Heard Island and McDonald Islands,Antarctica,412.0
+VA,Holy See (Vatican City),Europe,
+HN,Honduras,Central America and Caribbean,112090.0
+HK,Hong Kong,East and Southeast Asia,1108.0
+HU,Hungary,Europe,93028.0
+IS,Iceland,Europe,103000.0
+IN,India,South Asia,3287263.0
+ID,Indonesia,East and Southeast Asia,1904569.0
+IR,Iran,Middle East,1648195.0
+IQ,Iraq,Middle East,438317.0
+IE,Ireland,Europe,70273.0
+IM,Isle of Man,Europe,572.0
+IL,Israel,Middle East,21937.0
+IT,Italy,Europe,301340.0
+JM,Jamaica,Central America and Caribbean,10991.0
+JP,Japan,East and Southeast Asia,377915.0
+JE,Jersey,Europe,116.0
+JO,Jordan,Middle East,89342.0
+KZ,Kazakhstan,Central Asia,2724900.0
+KE,Kenya,Africa,580367.0
+KI,Kiribati,Australia-Oceania,811.0
+KW,Kuwait,Middle East,17818.0
+KG,Kyrgyzstan,Central Asia,199951.0
+LA,Laos,East and Southeast Asia,236800.0
+LV,Latvia,Europe,64589.0
+LB,Lebanon,Middle East,10400.0
+LS,Lesotho,Africa,30355.0
+LR,Liberia,Africa,111369.0
+LY,Libya,Africa,1759540.0
+LI,Liechtenstein,Europe,160.0
+LT,Lithuania,Europe,65300.0
+LU,Luxembourg,Europe,2586.0
+MO,Macau,East and Southeast Asia,28.0
+MG,Madagascar,Africa,587041.0
+MW,Malawi,Africa,118484.0
+MY,Malaysia,East and Southeast Asia,329847.0
+MV,Maldives,South Asia,298.0
+ML,Mali,Africa,1240192.0
+MT,Malta,Europe,316.0
+MH,Marshall Islands,Australia-Oceania,181.0
+MR,Mauritania,Africa,1030700.0
+MU,Mauritius,Africa,2040.0
+MX,Mexico,North America,1964375.0
+MD,Moldova,Europe,33851.0
+MC,Monaco,Europe,2.0
+MN,Mongolia,East and Southeast Asia,1564116.0
+ME,Montenegro,Europe,13812.0
+MS,Montserrat,Central America and Caribbean,102.0
+MA,Morocco,Africa,716550.0
+MZ,Mozambique,Africa,799380.0
+NR,Nauru,Australia-Oceania,21.0
+BQ,Navassa Island,Central America and Caribbean,5.0
+NP,Nepal,South Asia,147181.0
+NL,Netherlands,Europe,41543.0
+NC,New Caledonia,Australia-Oceania,18575.0
+NZ,New Zealand,Australia-Oceania,268838.0
+NI,Nicaragua,Central America and Caribbean,130370.0
+NE,Niger,Africa,
+NG,Nigeria,Africa,923768.0
+NU,Niue,Australia-Oceania,260.0
+NF,Norfolk Island,Australia-Oceania,36.0
+MP,Northern Mariana Islands,Australia-Oceania,464.0
+KP,North Korea,East and Southeast Asia,120538.0
+MK,North Macedonia,Europe,25713.0
+NO,Norway,Europe,323802.0
+OM,Oman,Middle East,309500.0
+PK,Pakistan,South Asia,796095.0
+PW,Palau,Australia-Oceania,459.0
+PA,Panama,Central America and Caribbean,75420.0
+PG,Papua New Guinea,East and Southeast Asia,462840.0
+PY,Paraguay,South America,406752.0
+PE,Peru,South America,1285216.0
+PH,Philippines,East and Southeast Asia,300000.0
+PN,Pitcairn Islands,Australia-Oceania,47.0
+PL,Poland,Europe,312685.0
+PT,Portugal,Europe,92090.0
+PR,Puerto Rico,Central America and Caribbean,9104.0
+QA,Qatar,Middle East,11586.0
+RO,Romania,Europe,238391.0
+RU,Russia,Central Asia,17098242.0
+RW,Rwanda,Africa,26338.0
+BL,Saint Barthelemy,Central America and Caribbean,25.0
+SH,"Saint Helena, Ascension, and Tristan da Cunha",Africa,394.0
+KN,Saint Kitts and Nevis,Central America and Caribbean,261.0
+LC,Saint Lucia,Central America and Caribbean,616.0
+MF,Saint Martin,Central America and Caribbean,50.0
+PM,Saint Pierre and Miquelon,North America,242.0
+VC,Saint Vincent and the Grenadines,Central America and Caribbean,389.0
+WS,Samoa,Australia-Oceania,2831.0
+SM,San Marino,Europe,61.0
+ST,Sao Tome and Principe,Africa,964.0
+SA,Saudi Arabia,Middle East,2149690.0
+SN,Senegal,Africa,196722.0
+RS,Serbia,Europe,77474.0
+SC,Seychelles,Africa,455.0
+SL,Sierra Leone,Africa,71740.0
+SG,Singapore,East and Southeast Asia,719.0
+SX,Sint Maarten,Central America and Caribbean,34.0
+SK,Slovakia,Europe,49035.0
+SI,Slovenia,Europe,20273.0
+SB,Solomon Islands,Australia-Oceania,28896.0
+SO,Somalia,Africa,637657.0
+ZA,South Africa,Africa,1219090.0
+GS,South Georgia and South Sandwich Islands,South America,3903.0
+KR,South Korea,East and Southeast Asia,99720.0
+SS,South Sudan,Africa,644329.0
+ES,Spain,Europe,505370.0
+LK,Sri Lanka,South Asia,65610.0
+SD,Sudan,Africa,1861484.0
+SR,Suriname,South America,163820.0
+SE,Sweden,Europe,450295.0
+CH,Switzerland,Europe,41277.0
+SY,Syria,Middle East,187437.0
+TW,Taiwan,East and Southeast Asia,35980.0
+TJ,Tajikistan,Central Asia,144100.0
+TZ,Tanzania,Africa,947300.0
+TH,Thailand,East and Southeast Asia,513120.0
+BS,The Bahamas,Central America and Caribbean,13880.0
+DO,The Dominican,Central America and Caribbean,48670.0
+GM,The Gambia,Africa,11300.0
+TL,Timor-Leste,East and Southeast Asia,14874.0
+TG,Togo,Africa,56785.0
+TK,Tokelau,Australia-Oceania,12.0
+TO,Tonga,Australia-Oceania,747.0
+TT,Trinidad and Tobago,Central America and Caribbean,5128.0
+TN,Tunisia,Africa,163610.0
+TR,Turkey,Middle East,783562.0
+TM,Turkmenistan,Central Asia,488100.0
+TC,Turks and Caicos Islands,Central America and Caribbean,948.0
+TV,Tuvalu,Australia-Oceania,26.0
+UG,Uganda,Africa,241038.0
+UA,Ukraine,Europe,603550.0
+AE,United Arab Emirates,Middle East,83600.0
+GB,United Kingdom,Europe,243610.0
+US,United States,North America,9833517.0
+UY,Uruguay,South America,176215.0
+UZ,Uzbekistan,Central Asia,447400.0
+VU,Vanuatu,Australia-Oceania,12189.0
+VE,Venezuela,South America,912050.0
+VN,Vietnam,East and Southeast Asia,331210.0
+VI,Virgin Islands,Central America and Caribbean,1910.0
+WF,Wallis and Futuna,Australia-Oceania,142.0
+EH,Western Sahara,Africa,266000.0
+YE,Yemen,Middle East,527968.0
+ZM,Zambia,Africa,752618.0
+ZW,Zimbabwe,Africa,390757.0

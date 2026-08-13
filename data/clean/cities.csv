@@ -1,0 +1,1221 @@
+name,country,iso2,region,latitude,longitude,population,elevation,timezone,feature_code
+Shanghai,China,CN,East and Southeast Asia,31.22222,121.45806,24874500,,Asia/Shanghai,PPLA
+Beijing,China,CN,East and Southeast Asia,39.9075,116.39723,18960744,,Asia/Shanghai,PPLC
+Shenzhen,China,CN,East and Southeast Asia,22.54554,114.0683,17494398,,Asia/Shanghai,PPLA2
+Guangzhou,China,CN,East and Southeast Asia,23.11667,113.25,16096724,,Asia/Shanghai,PPLA
+Kinshasa,DRC,CD,Africa,-4.32758,15.31357,16000000,,Africa/Kinshasa,PPLC
+Istanbul,Turkey,TR,Middle East,41.01384,28.94966,15701602,,Europe/Istanbul,PPLA
+Lagos,Nigeria,NG,Africa,6.45407,3.39467,15388000,,Africa/Lagos,PPLA2
+Ho Chi Minh City,Vietnam,VN,East and Southeast Asia,10.82302,106.62965,14002598,,Asia/Ho_Chi_Minh,PPL
+Chengdu,China,CN,East and Southeast Asia,30.66667,104.06667,13568357,,Asia/Shanghai,PPLA
+Lahore,Pakistan,PK,South Asia,31.558,74.35071,13004135,,Asia/Karachi,PPLA
+Mumbai,India,IN,South Asia,19.07283,72.88261,12691836,,Asia/Kolkata,PPLA
+Sao Paulo,Brazil,BR,South America,-23.5475,-46.63611,12400232,,America/Sao_Paulo,PPLA
+Mexico City,Mexico,MX,North America,19.42847,-99.12766,12294193,,America/Mexico_City,PPLC
+Karachi,Pakistan,PK,South Asia,24.8608,67.0104,11624219,,Asia/Karachi,PPLA
+Tianjin,China,CN,East and Southeast Asia,39.14222,117.17667,11090314,,Asia/Shanghai,PPLA
+Delhi,India,IN,South Asia,28.65195,77.23149,11034555,,Asia/Kolkata,PPLA
+Wuhan,China,CN,East and Southeast Asia,30.58333,114.26667,10392693,,Asia/Shanghai,PPLA
+Moscow,Russia,RU,Central Asia,55.75204,37.61781,10381222,,Europe/Moscow,PPLC
+Dhaka,Bangladesh,BD,South Asia,23.7104,90.40744,10356500,,Asia/Dhaka,PPLC
+Seoul,South Korea,KR,East and Southeast Asia,37.566,126.9784,10349312,,Asia/Seoul,PPLC
+Tokyo,Japan,JP,East and Southeast Asia,35.6895,139.69171,9733276,,Asia/Tokyo,PPLC
+Dongguan,China,CN,East and Southeast Asia,23.01797,113.74866,9644871,,Asia/Shanghai,PPLA2
+Cairo,Egypt,EG,Africa,30.06263,31.24967,9606916,,Africa/Cairo,PPLC
+Xi'an,China,CN,East and Southeast Asia,34.25833,108.92861,9600000,,Asia/Shanghai,PPLA
+Johannesburg,South Africa,ZA,Africa,-26.20227,28.04363,9418183,,Africa/Johannesburg,PPLA
+Nanjing,China,CN,East and Southeast Asia,32.06167,118.77778,9314685,,Asia/Shanghai,PPLA
+Hangzhou,China,CN,East and Southeast Asia,30.29365,120.16142,9236032,,Asia/Shanghai,PPLA
+Foshan,China,CN,East and Southeast Asia,23.02677,113.13148,9042509,,Asia/Shanghai,PPLA2
+London,United Kingdom,GB,Europe,51.50853,-0.12574,8961989,,Europe/London,PPLC
+New York City,United States,US,North America,40.71427,-74.00597,8804190,10.0,America/New_York,PPL
+Jakarta,Indonesia,ID,East and Southeast Asia,-6.21462,106.84513,8540121,,Asia/Jakarta,PPLC
+Bengaluru,India,IN,South Asia,12.97194,77.59369,8495492,920.0,Asia/Kolkata,PPLA
+Hanoi,Vietnam,VN,East and Southeast Asia,21.0245,105.84117,8053663,,Asia/Bangkok,PPLC
+Taipei,Taiwan,TW,East and Southeast Asia,25.05306,121.52639,7871900,,Asia/Taipei,PPLC
+Lima,Peru,PE,South America,-12.04318,-77.02824,7737002,,America/Lima,PPLC
+Bogota,Colombia,CO,South America,4.60971,-74.08175,7674366,,America/Bogota,PPLC
+Chongqing,China,CN,East and Southeast Asia,29.56026,106.55771,7457599,,Asia/Shanghai,PPLA
+Hong Kong,Hong Kong,HK,East and Southeast Asia,22.27832,114.17469,7396076,,Asia/Hong_Kong,PPLC
+Baghdad,Iraq,IQ,Middle East,33.34058,44.40088,7216000,,Asia/Baghdad,PPLC
+Qingdao,China,CN,East and Southeast Asia,36.06488,120.38042,7172451,,Asia/Shanghai,PPLA2
+Tehran,Iran,IR,Middle East,35.69439,51.42151,7153309,,Asia/Tehran,PPLC
+Shenyang,China,CN,East and Southeast Asia,41.79222,123.43278,7050000,,Asia/Shanghai,PPLA
+Hyderabad,India,IN,South Asia,17.38405,78.45636,6993262,,Asia/Kolkata,PPLA
+Rio de Janeiro,Brazil,BR,South America,-22.90642,-43.18223,6747815,,America/Sao_Paulo,PPLA
+Suzhou,China,CN,East and Southeast Asia,31.30408,120.59538,6715559,,Asia/Shanghai,PPLA2
+Ahmedabad,India,IN,South Asia,23.02579,72.58727,6357693,,Asia/Kolkata,PPL
+Abidjan,Côte d'Ivoire,CI,Africa,5.35444,-4.00167,6321017,,Africa/Abidjan,PPLA
+Singapore,Singapore,SG,East and Southeast Asia,1.28967,103.85007,5638700,,Asia/Singapore,PPLC
+Sydney,Australia,AU,Australia-Oceania,-33.86785,151.20732,5557233,,Australia/Sydney,PPLA
+Dar es Salaam,Tanzania,TZ,Africa,-6.82349,39.26951,5383728,,Africa/Dar_es_Salaam,PPLA
+Saint Petersburg,Russia,RU,Central Asia,59.93863,30.31413,5351935,,Europe/Moscow,PPLA
+Melbourne,Australia,AU,Australia-Oceania,-37.814,144.96332,5350705,,Australia/Melbourne,PPLA
+Alexandria,Egypt,EG,Africa,31.20176,29.91582,5263542,,Africa/Cairo,PPLA
+Harbin,China,CN,East and Southeast Asia,45.75,126.65,5242897,,Asia/Shanghai,PPLA
+Bangkok,Thailand,TH,East and Southeast Asia,13.75398,100.50144,5104476,,Asia/Bangkok,PPLC
+Hefei,China,CN,East and Southeast Asia,31.86389,117.28083,5050000,,Asia/Shanghai,PPLA
+Dalian,China,CN,East and Southeast Asia,38.91222,121.60222,4913879,,Asia/Shanghai,PPL
+Kano,Nigeria,NG,Africa,12.00012,8.51672,4910000,,Africa/Lagos,PPLA
+Santiago,Chile,CL,South America,-33.45694,-70.64827,4837295,,America/Santiago,PPLC
+Cape Town,South Africa,ZA,Africa,-33.92584,18.42322,4772846,,Africa/Johannesburg,PPLA
+Peshawar,Pakistan,PK,South Asia,34.008,71.57849,4758762,,Asia/Karachi,PPLA
+Changchun,China,CN,East and Southeast Asia,43.88,125.32278,4714996,,Asia/Shanghai,PPLA
+Jeddah,Saudi Arabia,SA,Middle East,21.49012,39.18624,4697000,,Asia/Riyadh,PPL
+Chennai,India,IN,South Asia,13.08784,80.27847,4681087,,Asia/Kolkata,PPLA
+Kolkata,India,IN,South Asia,22.56263,88.36304,4631392,,Asia/Kolkata,PPLA
+Xiamen,China,CN,East and Southeast Asia,24.47979,118.08187,4617251,,Asia/Shanghai,PPLA2
+Surat,India,IN,South Asia,21.19594,72.83023,4591246,,Asia/Kolkata,PPL
+Yangon,Burma,MM,East and Southeast Asia,16.80528,96.15611,4477638,,Asia/Yangon,PPLA
+Bao'an,China,CN,East and Southeast Asia,22.55213,113.88288,4476554,,Asia/Shanghai,PPLA3
+Kabul,Afghanistan,AF,South Asia,34.52813,69.17233,4434550,,Asia/Kabul,PPLC
+Nairobi,Kenya,KE,Africa,-1.28333,36.81667,4397073,,Africa/Nairobi,PPLC
+Wuxi,China,CN,East and Southeast Asia,31.56887,120.28857,4396835,,Asia/Shanghai,PPLA2
+Giza,Egypt,EG,Africa,30.00944,31.20861,4367343,,Africa/Cairo,PPLA
+Jinan,China,CN,East and Southeast Asia,36.66833,116.99722,4335989,,Asia/Shanghai,PPLA
+Taiyuan,China,CN,East and Southeast Asia,37.86944,112.56028,4303673,,Asia/Shanghai,PPLA
+Zhengzhou,China,CN,East and Southeast Asia,34.75778,113.64861,4253913,,Asia/Shanghai,PPLA
+Bamako,Mali,ML,Africa,12.60915,-7.97522,4227569,,Africa/Bamako,PPLC
+Riyadh,Saudi Arabia,SA,Middle East,24.68773,46.72185,4205961,,Asia/Riyadh,PPLC
+New Taipei City,Taiwan,TW,East and Southeast Asia,25.06199,121.45703,4004367,,Asia/Taipei,PPL
+New Territories,Hong Kong,HK,East and Southeast Asia,22.42441,114.11095,3984077,,Asia/Hong_Kong,PPLX
+Shijiazhuang,China,CN,East and Southeast Asia,38.04139,114.47861,3938513,,Asia/Shanghai,PPLA
+Chattogram,Bangladesh,BD,South Asia,22.3384,91.83168,3920222,,Asia/Dhaka,PPLA
+Addis Ababa,Ethiopia,ET,Africa,9.02497,38.74689,3860000,,Africa/Addis_Ababa,PPLC
+Kunming,China,CN,East and Southeast Asia,25.03889,102.71833,3855346,,Asia/Shanghai,PPLA
+Zhongshan,China,CN,East and Southeast Asia,22.52306,113.37912,3841873,,Asia/Shanghai,PPLA2
+Nanning,China,CN,East and Southeast Asia,22.81667,108.31667,3839800,,Asia/Shanghai,PPLA
+Shantou,China,CN,East and Southeast Asia,23.35489,116.67876,3838900,,Asia/Shanghai,PPLA2
+Los Angeles,United States,US,North America,34.05223,-118.24368,3820914,89.0,America/Los_Angeles,PPLA2
+Faisalabad,Pakistan,PK,South Asia,31.41554,73.08969,3800193,,Asia/Karachi,PPLA2
+Dubai,United Arab Emirates,AE,Middle East,25.07725,55.30927,3790000,,Asia/Dubai,PPLA
+Yokohama,Japan,JP,East and Southeast Asia,35.43333,139.65,3777491,,Asia/Tokyo,PPLA
+Fuzhou,China,CN,East and Southeast Asia,26.06139,119.30611,3740000,,Asia/Shanghai,PPLA
+Ningbo,China,CN,East and Southeast Asia,29.87819,121.54945,3731203,,Asia/Shanghai,PPLA2
+Casablanca,Morocco,MA,Africa,33.58831,-7.61138,3665954,,Africa/Casablanca,PPLA
+Ibadan,Nigeria,NG,Africa,7.37756,3.90591,3649000,,Africa/Lagos,PPLA
+Puyang,China,CN,East and Southeast Asia,29.45679,119.88872,3590000,,Asia/Shanghai,PPLA3
+Ankara,Turkey,TR,Middle East,39.91987,32.85427,3517182,850.0,Europe/Istanbul,PPLC
+Shiyan,China,CN,East and Southeast Asia,32.6475,110.77806,3460000,,Asia/Shanghai,PPLA2
+Berlin,Germany,DE,Europe,52.52437,13.41053,3426354,74.0,Europe/Berlin,PPLC
+Tangshan,China,CN,East and Southeast Asia,39.64381,118.18319,3372102,,Asia/Shanghai,PPLA2
+Rawalpindi,Pakistan,PK,South Asia,33.59733,73.0479,3357612,,Asia/Karachi,PPLA2
+Lueliang,China,CN,East and Southeast Asia,37.5192,111.14436,3346500,,Asia/Shanghai,PPLA2
+Busan,South Korea,KR,East and Southeast Asia,35.10168,129.03004,3343903,,Asia/Seoul,PPLA
+Durban,South Africa,ZA,Africa,-29.8579,31.0292,3338026,,Africa/Johannesburg,PPLA2
+Changzhou,China,CN,East and Southeast Asia,31.77359,119.95401,3290918,,Asia/Shanghai,PPLA2
+Madrid,Spain,ES,Europe,40.4165,-3.70256,3255944,,Europe/Madrid,PPLC
+Pyongyang,North Korea,KP,East and Southeast Asia,39.03385,125.75432,3222000,,Asia/Pyongyang,PPLC
+Zibo,China,CN,East and Southeast Asia,36.79056,118.06333,3129228,,Asia/Shanghai,PPL
+Pune,India,IN,South Asia,18.51957,73.85535,3124458,,Asia/Kolkata,PPL
+Bursa,Turkey,TR,Middle East,40.19559,29.06013,3101833,,Europe/Istanbul,PPLA
+Changsha,China,CN,East and Southeast Asia,28.19874,112.97087,3093980,,Asia/Shanghai,PPLA
+Quezon City,Philippines,PH,East and Southeast Asia,14.6488,121.0509,3084270,,Asia/Manila,PPLA2
+Jaipur,India,IN,South Asia,26.91962,75.78781,3046163,,Asia/Kolkata,PPLA
+Incheon,South Korea,KR,East and Southeast Asia,37.45646,126.70515,3039450,,Asia/Seoul,PPLA
+Guiyang,China,CN,East and Southeast Asia,26.58333,106.71667,3037159,,Asia/Shanghai,PPLA
+UEruemqi,China,CN,East and Southeast Asia,43.80096,87.60046,3029372,,Asia/Urumqi,PPLA
+Lanzhou,China,CN,East and Southeast Asia,36.05701,103.83987,3000000,,Asia/Shanghai,PPLA
+Caracas,Venezuela,VE,South America,10.48801,-66.87919,3000000,,America/Caracas,PPLC
+Izmir,Turkey,TR,Middle East,38.41273,27.13838,2938292,,Europe/Istanbul,PPLA
+Huizhou,China,CN,East and Southeast Asia,23.11147,114.41523,2900113,,Asia/Shanghai,PPLA2
+Buenos Aires,Argentina,AR,South America,-34.61315,-58.37723,2891082,,America/Argentina/Buenos_Aires,PPLC
+Surabaya,Indonesia,ID,East and Southeast Asia,-7.24917,112.75083,2874314,,Asia/Jakarta,PPLA
+Haikou,China,CN,East and Southeast Asia,20.03421,110.34651,2873358,,Asia/Shanghai,PPLA
+Taichung,Taiwan,TW,East and Southeast Asia,24.1469,120.6839,2850285,,Asia/Taipei,PPLA2
+Kanpur,India,IN,South Asia,26.46523,80.34975,2823249,,Asia/Kolkata,PPL
+Kyiv,Ukraine,UA,Europe,50.45466,30.5238,2797553,,Europe/Kyiv,PPLC
+Toronto,Canada,CA,North America,43.70643,-79.39864,2794356,,America/Toronto,PPLA
+Quito,Ecuador,EC,South America,-0.22985,-78.52495,2781641,,America/Guayaquil,PPLC
+Brisbane,Australia,AU,Australia-Oceania,-27.46794,153.02809,2780063,,Australia/Brisbane,PPLA
+Luanda,Angola,AO,Africa,-8.83682,13.23432,2776168,,Africa/Luanda,PPLC
+Osaka,Japan,JP,East and Southeast Asia,34.69379,135.50107,2753862,,Asia/Tokyo,PPLA
+Linyi,China,CN,East and Southeast Asia,35.06306,118.34278,2743843,,Asia/Shanghai,PPLA2
+Baoding,China,CN,East and Southeast Asia,38.87288,115.46246,2739887,,Asia/Shanghai,PPLA2
+Kaohsiung,Taiwan,TW,East and Southeast Asia,22.61626,120.31333,2737660,,Asia/Taipei,PPLA
+Brooklyn,United States,US,North America,40.6501,-73.94958,2736074,15.0,America/New_York,PPLA2
+Guayaquil,Ecuador,EC,South America,-2.19616,-79.88621,2723665,,America/Guayaquil,PPLA
+Belo Horizonte,Brazil,BR,South America,-19.92083,-43.93778,2721564,888.0,America/Sao_Paulo,PPLA
+Salvador,Brazil,BR,South America,-12.97563,-38.49096,2711840,,America/Bahia,PPLA
+Abuja,Nigeria,NG,Africa,9.05785,7.49508,2690000,,Africa/Lagos,PPLC
+Gazipur,Bangladesh,BD,South Asia,23.99844,90.42234,2674697,,Asia/Dhaka,PPLA2
+Chicago,United States,US,North America,41.85003,-87.65005,2664452,179.0,America/Chicago,PPLA2
+Wenzhou,China,CN,East and Southeast Asia,27.99942,120.66682,2650000,,Asia/Shanghai,PPLA3
+Dakar,Senegal,SN,Africa,14.6937,-17.44406,2646503,,Africa/Dakar,PPLC
+Haiphong,Vietnam,VN,East and Southeast Asia,20.86481,106.68345,2625200,,Asia/Bangkok,PPLA
+Yunfu,China,CN,East and Southeast Asia,22.92787,112.03809,2612800,,Asia/Shanghai,PPLA2
+Navi Mumbai,India,IN,South Asia,19.03681,73.01582,2600000,,Asia/Kolkata,PPLX
+Mogadishu,Somalia,SO,Africa,2.03711,45.34375,2587183,,Africa/Mogadishu,PPLC
+Bekasi,Indonesia,ID,East and Southeast Asia,-6.2349,106.9896,2564940,,Asia/Jakarta,PPL
+Kumasi,Ghana,GH,Africa,6.68848,-1.62443,2544530,,Africa/Accra,PPLA
+Gujranwala,Pakistan,PK,South Asia,32.15567,74.18705,2511118,,Asia/Karachi,PPLA2
+Huai'an,China,CN,East and Southeast Asia,33.58861,119.01917,2494013,,Asia/Shanghai,PPL
+Lucknow,India,IN,South Asia,26.83928,80.92313,2472011,,Asia/Kolkata,PPLA
+Bandung,Indonesia,ID,East and Southeast Asia,-6.92222,107.60694,2444160,,Asia/Jakarta,PPLA
+Medan,Indonesia,ID,East and Southeast Asia,3.58333,98.66667,2435252,,Asia/Jakarta,PPLA
+Ouagadougou,Burkina Faso,BF,Africa,12.36566,-1.53388,2415266,,Africa/Ouagadougou,PPLC
+Nagpur,India,IN,South Asia,21.14631,79.08491,2405665,,Asia/Kolkata,PPLA2
+Fortaleza,Brazil,BR,South America,-3.71722,-38.54306,2400000,,America/Fortaleza,PPLA
+Cali,Colombia,CO,South America,3.43054,-76.5199,2392877,,America/Bogota,PPLA
+Daegu,South Korea,KR,East and Southeast Asia,35.87028,128.59111,2365523,,Asia/Seoul,PPLA
+Algiers,Algeria,DZ,Africa,36.73225,3.08746,2364230,,Africa/Algiers,PPLC
+Nanchang,China,CN,East and Southeast Asia,28.68396,115.85306,2357839,,Asia/Shanghai,PPLA
+Hohhot,China,CN,East and Southeast Asia,40.81056,111.65222,2350000,,Asia/Shanghai,PPLA
+Nagoya,Japan,JP,East and Southeast Asia,35.18147,136.90641,2332176,,Asia/Tokyo,PPLA
+Rome,Italy,IT,Europe,41.89193,12.51133,2318895,20.0,Europe/Rome,PPLC
+Queens,United States,US,North America,40.68149,-73.83652,2316841,12.0,America/New_York,PPLA2
+Houston,United States,US,North America,29.76328,-95.36327,2314157,12.0,America/Chicago,PPLA2
+Perth,Australia,AU,Australia-Oceania,-31.95224,115.8614,2309338,,Australia/Perth,PPLA
+Mashhad,Iran,IR,Middle East,36.29807,59.60567,2307177,,Asia/Tehran,PPLA
+Shaoxing,China,CN,East and Southeast Asia,30.00237,120.57864,2300000,,Asia/Shanghai,PPLA3
+Nantong,China,CN,East and Southeast Asia,32.03028,120.87472,2273326,,Asia/Shanghai,PPLA2
+Kowloon,Hong Kong,HK,East and Southeast Asia,22.31667,114.18333,2232339,,Asia/Hong_Kong,PPLX
+Yantai,China,CN,East and Southeast Asia,37.47649,121.44081,2227733,,Asia/Shanghai,PPL
+Lubumbashi,DRC,CD,Africa,-11.66089,27.47938,2221925,,Africa/Lubumbashi,PPLA
+Manaus,Brazil,BR,South America,-3.10194,-60.025,2219580,,America/Manaus,PPLA
+Lusaka,Zambia,ZM,Africa,-15.40669,28.28713,2212301,,Africa/Lusaka,PPLC
+Brasilia,Brazil,BR,South America,-15.77972,-47.92972,2207718,,America/Sao_Paulo,PPLC
+Zhuhai,China,CN,East and Southeast Asia,22.27694,113.56778,2207090,,Asia/Shanghai,PPLA2
+Santo Domingo,The Dominican,DO,Central America and Caribbean,18.47186,-69.89232,2201941,,America/Santo_Domingo,PPLC
+Lome,Togo,TG,Africa,6.12874,1.22154,2188376,,Africa/Lome,PPLC
+Multan,Pakistan,PK,South Asia,30.19679,71.47824,2169915,,Asia/Karachi,PPLA2
+Havana,Cuba,CU,Central America and Caribbean,23.13302,-82.38304,2163824,,America/Havana,PPLC
+Baotou,China,CN,East and Southeast Asia,40.6516,109.84389,2150000,,Asia/Shanghai,PPL
+Depok,Indonesia,ID,East and Southeast Asia,-6.4,106.81861,2145400,,Asia/Jakarta,PPL
+Paris,France,FR,Europe,48.85341,2.3488,2138551,,Europe/Paris,PPLC
+Coimbatore,India,IN,South Asia,11.00555,76.96612,2136916,411.0,Asia/Kolkata,PPL
+Gaziantep,Turkey,TR,Middle East,37.05944,37.3825,2130432,,Europe/Istanbul,PPLA
+Qingyang,China,CN,East and Southeast Asia,35.70976,107.64455,2125400,,Asia/Shanghai,PPLA2
+Port Harcourt,Nigeria,NG,Africa,4.77742,7.0134,2120000,,Africa/Lagos,PPLA
+Pretoria,South Africa,ZA,Africa,-25.74486,28.18783,2112693,,Africa/Johannesburg,PPLC
+Cordoba,Argentina,AR,South America,-31.40648,-64.18853,2106734,,America/Argentina/Cordoba,PPLA
+Mbuji-Mayi,DRC,CD,Africa,-6.13603,23.58979,2101332,,Africa/Lubumbashi,PPLA
+Aleppo,Syria,SY,Middle East,36.20124,37.16117,2098210,,Asia/Damascus,PPLA
+Kunshan,China,CN,East and Southeast Asia,31.37762,120.95431,2092496,,Asia/Shanghai,PPLA3
+Al Mawsil al Jadidah,Iraq,IQ,Middle East,36.33271,43.10555,2065597,,Asia/Baghdad,PPLX
+Weifang,China,CN,East and Southeast Asia,36.71,119.10194,2044028,,Asia/Shanghai,PPL
+Zunyi,China,CN,East and Southeast Asia,27.68667,106.90722,2037775,,Asia/Shanghai,PPLA2
+Al Basrah al Qadimah,Iraq,IQ,Middle East,30.50316,47.81507,2015483,,Asia/Baghdad,PPLX
+La Paz,Bolivia,BO,South America,-16.5,-68.15,2004652,,America/La_Paz,PPLG
+Lianyungang,China,CN,East and Southeast Asia,34.59845,119.21556,2001009,,Asia/Shanghai,PPLA2
+Medellin,Colombia,CO,South America,6.245,-75.57151,1999979,1405.0,America/Bogota,PPLA
+Indore,India,IN,South Asia,22.71792,75.8333,1994397,,Asia/Kolkata,PPL
+Brazzaville,Congo (Brazzaville),CG,Africa,-4.26613,15.28318,1982000,,Africa/Brazzaville,PPLC
+Tashkent,Uzbekistan,UZ,Central Asia,41.26465,69.21627,1978028,,Asia/Tashkent,PPLC
+Ganzhou,China,CN,East and Southeast Asia,25.84664,114.9326,1977253,,Asia/Shanghai,PPLA2
+Almaty,Kazakhstan,KZ,Central Asia,43.25249,76.9115,1977011,,Asia/Almaty,PPLA
+Khartoum,Sudan,SD,Africa,15.55177,32.53241,1974647,,Africa/Khartoum,PPLC
+Sapporo,Japan,JP,East and Southeast Asia,43.06667,141.35,1973832,,Asia/Tokyo,PPLA
+Accra,Ghana,GH,Africa,5.55602,-0.1969,1963264,,Africa/Accra,PPLC
+Curitiba,Brazil,BR,South America,-25.42778,-49.27306,1948626,,America/Sao_Paulo,PPLA
+Ordos,China,CN,East and Southeast Asia,39.6086,109.78157,1940653,2149.0,Asia/Shanghai,PPL
+Sanaa,Yemen,YE,Middle East,15.35452,44.20646,1937451,,Asia/Aden,PPLC
+Conakry,Guinea,GN,Africa,9.53795,-13.67729,1928389,,Africa/Conakry,PPLC
+Tijuana,Mexico,MX,North America,32.5027,-117.00371,1922523,,America/Tijuana,PPLA2
+Hyderabad,Pakistan,PK,South Asia,25.39689,68.37718,1921275,,Asia/Karachi,PPLA2
+Beirut,Lebanon,LB,Middle East,33.89332,35.50157,1916100,,Asia/Beirut,PPLC
+Tangerang,Indonesia,ID,East and Southeast Asia,-6.17806,106.63,1912679,,Asia/Jakarta,PPL
+Jieyang,China,CN,East and Southeast Asia,23.5418,116.36581,1899394,,Asia/Shanghai,PPLA2
+Jilin,China,CN,East and Southeast Asia,43.84652,126.5608,1895865,,Asia/Shanghai,PPLA2
+Bucharest,Romania,RO,Europe,44.43225,26.10626,1877155,,Europe/Bucharest,PPLC
+Camayenne,Guinea,GN,Africa,9.535,-13.68778,1871242,,Africa/Conakry,PPL
+Kakamega,Kenya,KE,Africa,0.28422,34.75229,1867579,,Africa/Nairobi,PPLA
+Nanchong,China,CN,East and Southeast Asia,30.79508,106.08473,1858875,,Asia/Shanghai,PPLA2
+Tainan,Taiwan,TW,East and Southeast Asia,22.99083,120.21333,1856642,,Asia/Taipei,PPLA2
+Datong,China,CN,East and Southeast Asia,40.09361,113.29139,1850000,,Asia/Shanghai,PPL
+Kaduna,Nigeria,NG,Africa,10.52641,7.43879,1850000,,Africa/Lagos,PPLA
+Omdurman,Sudan,SD,Africa,15.64453,32.47773,1849659,,Africa/Khartoum,PPL
+Davao,Philippines,PH,East and Southeast Asia,7.07306,125.61278,1848947,,Asia/Manila,PPLA
+Hamburg,Germany,DE,Europe,53.55073,9.99302,1845229,,Europe/Berlin,PPLA
+Thane,India,IN,South Asia,19.19704,72.96355,1841488,,Asia/Kolkata,PPL
+Iztapalapa,Mexico,MX,North America,19.35529,-99.06224,1835486,,America/Mexico_City,PPL
+Santa Cruz de la Sierra,Bolivia,BO,South America,-17.78629,-63.18117,1831434,,America/La_Paz,PPLA
+Vadodara,India,IN,South Asia,22.29941,73.20812,1822221,,Asia/Kolkata,PPL
+Adana,Turkey,TR,Middle East,36.98615,35.32531,1816750,,Europe/Istanbul,PPLA
+Nanyang,China,CN,East and Southeast Asia,32.99472,112.53278,1811812,,Asia/Shanghai,PPLA2
+Abu Dhabi,United Arab Emirates,AE,Middle East,24.45118,54.39696,1807000,,Asia/Dubai,PPLC
+Sharjah,United Arab Emirates,AE,Middle East,25.3342,55.41221,1800000,,Asia/Dubai,PPLA
+Bhopal,India,IN,South Asia,23.25469,77.40289,1798218,,Asia/Kolkata,PPLA
+Jiangmen,China,CN,East and Southeast Asia,22.58333,113.08333,1795459,,Asia/Shanghai,PPLA2
+Diyarbakir,Turkey,TR,Middle East,37.91363,40.21721,1791373,,Europe/Istanbul,PPLA
+Benin City,Nigeria,NG,Africa,6.33815,5.62575,1782000,,Africa/Lagos,PPLA
+Jiangyin,China,CN,East and Southeast Asia,31.91102,120.26302,1779515,,Asia/Shanghai,PPLA3
+Fuyang,China,CN,East and Southeast Asia,32.9,115.81667,1768947,,Asia/Shanghai,PPLA2
+Montreal,Canada,CA,North America,45.50884,-73.58781,1762949,,America/Toronto,PPLA2
+Bayan Nur,China,CN,East and Southeast Asia,40.74143,107.38599,1760000,1050.0,Asia/Shanghai,PPL
+Maracaibo,Venezuela,VE,South America,10.64232,-71.61089,1752602,,America/Caracas,PPLA
+Chaozhou,China,CN,East and Southeast Asia,23.65396,116.62262,1750945,,Asia/Shanghai,PPLA2
+Minsk,Belarus,BY,Europe,53.90019,27.56653,1742124,,Europe/Minsk,PPLC
+Budapest,Hungary,HU,Europe,47.49835,19.04045,1741041,,Europe/Budapest,PPLC
+Qingyuan,China,CN,East and Southeast Asia,23.7,113.03333,1738424,,Asia/Shanghai,PPLA2
+Tai'an,China,CN,East and Southeast Asia,36.18528,117.12,1735425,,Asia/Shanghai,PPLA2
+Rasapudipalem,India,IN,South Asia,17.73308,83.31622,1728128,,Asia/Kolkata,PPL
+Pimpri-Chinchwad,India,IN,South Asia,18.61867,73.80375,1727692,,Asia/Kolkata,PPL
+Caloocan,Philippines,PH,East and Southeast Asia,14.64953,120.96788,1712945,,Asia/Manila,PPLA2
+Warsaw,Poland,PL,Europe,52.22977,21.01178,1702139,,Europe/Warsaw,PPLC
+Soweto,South Africa,ZA,Africa,-26.26781,27.85849,1695047,,Africa/Johannesburg,PPL
+Puebla,Mexico,MX,North America,19.04778,-98.20723,1692181,,America/Mexico_City,PPLA
+Vienna,Austria,AT,Europe,48.20849,16.37208,1691468,171.0,Europe/Vienna,PPLC
+Barcelona,Spain,ES,Europe,41.38879,2.15899,1686208,15.0,Europe/Madrid,PPLA
+Patna,India,IN,South Asia,25.59408,85.13563,1684297,,Asia/Kolkata,PPLA
+Mosul,Iraq,IQ,Middle East,36.335,43.11889,1683000,,Asia/Baghdad,PPLA
+Kallakurichi,India,IN,South Asia,11.73379,78.95925,1682687,,Asia/Kolkata,PPLA2
+Kampala,Uganda,UG,Africa,0.31628,32.58219,1680600,,Africa/Kampala,PPLC
+Xining,China,CN,East and Southeast Asia,36.62554,101.75739,1677177,,Asia/Shanghai,PPLA
+Changshu,China,CN,East and Southeast Asia,31.64615,120.74221,1677050,,Asia/Shanghai,PPLA3
+Palembang,Indonesia,ID,East and Southeast Asia,-2.91673,104.7458,1668848,,Asia/Jakarta,PPLA
+Huainan,China,CN,East and Southeast Asia,32.62639,116.99694,1666826,,Asia/Shanghai,PPL
+Rabat,Morocco,MA,Africa,34.01325,-6.83255,1655753,,Africa/Casablanca,PPLC
+Semarang,Indonesia,ID,East and Southeast Asia,-6.99306,110.42083,1653524,,Asia/Jakarta,PPLA
+Recife,Brazil,BR,South America,-8.05389,-34.88111,1653461,,America/Recife,PPLA
+Phoenix,United States,US,North America,33.44838,-112.07404,1650070,331.0,America/Phoenix,PPLA
+Suzhou,China,CN,East and Southeast Asia,33.63611,116.97889,1647642,,Asia/Shanghai,PPLA2
+Ecatepec de Morelos,Mexico,MX,North America,19.60492,-99.06064,1645352,,America/Mexico_City,PPLA2
+Lu'an,China,CN,East and Southeast Asia,31.73561,116.51688,1644344,,Asia/Shanghai,PPLA2
+Valencia,Venezuela,VE,South America,10.16153,-68.00044,1619470,,America/Caracas,PPLA
+Ludhiana,India,IN,South Asia,30.91204,75.85379,1618879,,Asia/Kolkata,PPL
+Yancheng,China,CN,East and Southeast Asia,33.3575,120.1573,1615717,,Asia/Shanghai,PPLA2
+Novosibirsk,Russia,RU,Central Asia,55.02259,82.93175,1612833,,Asia/Novosibirsk,PPLA
+Erbil,Iraq,IQ,Middle East,36.19117,44.00943,1612700,,Asia/Baghdad,PPLA
+Fukuoka,Japan,JP,East and Southeast Asia,33.6,130.41667,1612392,,Asia/Tokyo,PPLA
+Taizhou,China,CN,East and Southeast Asia,32.49069,119.90812,1607108,,Asia/Shanghai,PPLA3
+Daqing,China,CN,East and Southeast Asia,46.58333,125.0,1604027,,Asia/Shanghai,PPLA2
+Manila,Philippines,PH,East and Southeast Asia,14.6042,120.9822,1600000,,Asia/Manila,PPLC
+Wuhu,China,CN,East and Southeast Asia,31.35259,118.42947,1598165,,Asia/Shanghai,PPLA2
+Santiago de Queretaro,Mexico,MX,North America,20.58806,-100.38806,1594212,,America/Mexico_City,PPLA
+Dazhou,China,CN,East and Southeast Asia,31.2106,107.46308,1589435,,Asia/Shanghai,PPLA2
+Yangzhou,China,CN,East and Southeast Asia,32.39722,119.43583,1584237,,Asia/Shanghai,PPL
+Leon de los Aldama,Mexico,MX,North America,21.12908,-101.67374,1579803,,America/Mexico_City,PPLA2
+Makkah,Saudi Arabia,SA,Middle East,21.42664,39.82563,1578722,,Asia/Riyadh,PPLA
+Philadelphia,United States,US,North America,39.95238,-75.16362,1573916,12.0,America/New_York,PPLA2
+Phnom Penh,Cambodia,KH,East and Southeast Asia,11.56245,104.91601,1573544,,Asia/Phnom_Penh,PPLC
+Guilin,China,CN,East and Southeast Asia,25.28022,110.29639,1572300,,Asia/Shanghai,PPLA2
+Damascus,Syria,SY,Middle East,33.5102,36.29128,1569394,,Asia/Damascus,PPLC
+Quetta,Pakistan,PK,South Asia,30.18414,67.00141,1565546,,Asia/Karachi,PPLA
+Zhaoqing,China,CN,East and Southeast Asia,23.04893,112.46091,1553109,,Asia/Shanghai,PPLA2
+Onitsha,Nigeria,NG,Africa,6.14978,6.78569,1553000,,Africa/Lagos,PPLA2
+Mianyang,China,CN,East and Southeast Asia,31.46784,104.68168,1550000,,Asia/Shanghai,PPLA3
+Isfahan,Iran,IR,Middle East,32.65246,51.67462,1547164,,Asia/Tehran,PPLA
+Wanzhou,China,CN,East and Southeast Asia,30.76451,108.39586,1545900,,Asia/Shanghai,PPLA3
+Harare,Zimbabwe,ZW,Africa,-17.82772,31.05337,1542813,,Africa/Harare,PPLC
+Monrovia,Liberia,LR,Africa,6.30054,-10.7969,1542549,,Africa/Monrovia,PPLC
+Putian,China,CN,East and Southeast Asia,25.43944,119.01028,1539389,,Asia/Shanghai,PPLA2
+Kawasaki,Japan,JP,East and Southeast Asia,35.52056,139.71722,1538262,,Asia/Tokyo,PPLA2
+Shangqiu,China,CN,East and Southeast Asia,34.45,115.65,1536392,,Asia/Shanghai,PPL
+Goiania,Brazil,BR,South America,-16.67861,-49.25389,1536097,,America/Sao_Paulo,PPLA
+Auckland,New Zealand,NZ,Australia-Oceania,-36.84853,174.76349,1530500,,Pacific/Auckland,PPLA
+San Antonio,United States,US,North America,29.42412,-98.49363,1526656,198.0,America/Chicago,PPLA2
+Kobe,Japan,JP,East and Southeast Asia,34.6913,135.183,1525152,,Asia/Tokyo,PPLA
+Stockholm,Sweden,SE,Europe,59.32938,18.06871,1515017,,Europe/Stockholm,PPLC
+Ciudad Juarez,Mexico,MX,North America,31.72024,-106.46084,1512450,,America/Ciudad_Juarez,PPLA2
+Can Tho,Vietnam,VN,East and Southeast Asia,10.03711,105.78825,1507187,,Asia/Ho_Chi_Minh,PPLA
+Khulna,Bangladesh,BD,South Asia,22.80979,89.56439,1500689,,Asia/Dhaka,PPLA
+Belem,Brazil,BR,South America,-1.45583,-48.50444,1499641,,America/Belem,PPLA
+Yekaterinburg,Russia,RU,Central Asia,56.85733,60.61529,1495066,,Asia/Yekaterinburg,PPLA
+Porto Alegre,Brazil,BR,South America,-30.03283,-51.23019,1488252,,America/Sao_Paulo,PPLA
+Yinchuan,China,CN,East and Southeast Asia,38.46806,106.27306,1487579,,Asia/Shanghai,PPLA
+Manhattan,United States,US,North America,40.78343,-73.96625,1487536,35.0,America/New_York,PPLA2
+Nashik,India,IN,South Asia,19.99727,73.79096,1486053,,Asia/Kolkata,PPLA2
+Taizhou,China,CN,East and Southeast Asia,28.66266,121.43312,1485502,,Asia/Shanghai,PPLA2
+Asuncion,Paraguay,PY,South America,-25.28646,-57.647,1482200,,America/Asuncion,PPLC
+Yiwu,China,CN,East and Southeast Asia,29.31506,120.07676,1481384,,Asia/Shanghai,PPLA3
+Zapopan,Mexico,MX,North America,20.72111,-103.38742,1476491,,America/Mexico_City,PPLA2
+Daejeon,South Korea,KR,East and Southeast Asia,36.34913,127.38493,1470336,,Asia/Seoul,PPLA
+Adelaide,Australia,AU,Australia-Oceania,-34.92866,138.59863,1469163,,Australia/Adelaide,PPLA
+Quanzhou,China,CN,East and Southeast Asia,24.91389,118.58583,1469157,,Asia/Shanghai,PPLA2
+Madurai,India,IN,South Asia,9.919,78.11953,1465625,,Asia/Kolkata,PPLA2
+Jinhua,China,CN,East and Southeast Asia,29.10678,119.64421,1463990,,Asia/Shanghai,PPLA2
+Kyoto,Japan,JP,East and Southeast Asia,35.02107,135.75385,1463723,,Asia/Tokyo,PPLA
+Cixi,China,CN,East and Southeast Asia,30.1764,121.2457,1457510,,Asia/Shanghai,PPLA3
+Changde,China,CN,East and Southeast Asia,29.03205,111.69844,1457419,,Asia/Shanghai,PPLA3
+Kuala Lumpur,Malaysia,MY,East and Southeast Asia,3.1412,101.68653,1453975,,Asia/Kuala_Lumpur,PPLC
+Kaifeng,China,CN,East and Southeast Asia,34.7986,114.30742,1451741,,Asia/Shanghai,PPL
+Anshan,China,CN,East and Southeast Asia,41.12361,122.99,1450000,,Asia/Shanghai,PPL
+Karaj,Iran,IR,Middle East,35.83266,50.99155,1448075,,Asia/Tehran,PPLA
+Kathmandu,Nepal,NP,South Asia,27.70169,85.3206,1442271,1317.0,Asia/Kathmandu,PPLC
+Baoji,China,CN,East and Southeast Asia,34.36775,107.23705,1437802,,Asia/Shanghai,PPLA2
+Suqian,China,CN,East and Southeast Asia,33.94917,118.29583,1437685,,Asia/Shanghai,PPLA2
+Liuzhou,China,CN,East and Southeast Asia,24.32405,109.40698,1436599,,Asia/Shanghai,PPLA2
+Tirunelveli,India,IN,South Asia,8.72742,77.6838,1435844,,Asia/Kolkata,PPLA2
+Kayseri,Turkey,TR,Middle East,38.73222,35.48528,1434357,,Europe/Istanbul,PPLA
+Kharkiv,Ukraine,UA,Europe,49.98177,36.25475,1433886,,Europe/Kyiv,PPLA
+Konya,Turkey,TR,Middle East,37.87135,32.48464,1433861,,Europe/Istanbul,PPLA
+Zhangjiagang,China,CN,East and Southeast Asia,31.865,120.53889,1432044,,Asia/Shanghai,PPLA3
+Agra,India,IN,South Asia,27.18333,78.01667,1430055,,Asia/Kolkata,PPLA2
+Tabriz,Iran,IR,Middle East,38.08,46.2919,1424641,,Asia/Tehran,PPLA
+Makassar,Indonesia,ID,East and Southeast Asia,-5.14861,119.43194,1423877,,Asia/Makassar,PPLA
+Jinjiang,China,CN,East and Southeast Asia,24.81978,118.57415,1416151,,Asia/Shanghai,PPLA3
+Faridabad,India,IN,South Asia,28.41124,77.31316,1414050,,Asia/Kolkata,PPLA2
+Bozhou,China,CN,East and Southeast Asia,33.87722,115.77028,1409436,,Asia/Shanghai,PPLA2
+Qujing,China,CN,East and Southeast Asia,25.48333,103.78333,1408500,,Asia/Shanghai,PPL
+South Tangerang,Indonesia,ID,East and Southeast Asia,-6.28862,106.71789,1404785,,Asia/Jakarta,PPL
+San Diego,United States,US,North America,32.71571,-117.16472,1404452,20.0,America/Los_Angeles,PPLA2
+Zhanjiang,China,CN,East and Southeast Asia,21.23391,110.38749,1400709,,Asia/Shanghai,PPLA2
+Fushun,China,CN,East and Southeast Asia,41.88669,123.94363,1400646,,Asia/Shanghai,PPLA2
+Gwangju,South Korea,KR,East and Southeast Asia,35.15472,126.91556,1398538,,Asia/Seoul,PPLA
+Rajkot,India,IN,South Asia,22.29161,70.79322,1390640,,Asia/Kolkata,PPL
+Luoyang,China,CN,East and Southeast Asia,34.67345,112.43684,1390581,,Asia/Shanghai,PPLA2
+Guadalajara,Mexico,MX,North America,20.67738,-103.34749,1385629,,America/Mexico_City,PPLA
+The Bronx,United States,US,North America,40.84985,-73.86641,1385108,23.0,America/New_York,PPLA2
+Guankou,China,CN,East and Southeast Asia,28.15861,113.62709,1380000,,Asia/Shanghai,PPLA3
+Hue,Vietnam,VN,East and Southeast Asia,16.4619,107.59546,1380000,,Asia/Bangkok,PPLA
+Milan,Italy,IT,Europe,45.46427,9.18951,1371498,122.0,Europe/Rome,PPLA
+Najafgarh,India,IN,South Asia,28.60922,76.97982,1365000,,Asia/Kolkata,PPL
+N'Djamena,Chad,TD,Africa,12.10672,15.0444,1359526,,Africa/Ndjamena,PPLC
+Handan,China,CN,East and Southeast Asia,36.60999,114.48764,1358318,,Asia/Shanghai,PPLA2
+Bannu,Pakistan,PK,South Asia,32.98527,70.60403,1357890,,Asia/Karachi,PPLA2
+Yichang,China,CN,East and Southeast Asia,30.71444,111.28472,1350150,,Asia/Shanghai,PPLA2
+Antananarivo,Madagascar,MG,Africa,-18.91368,47.53613,1349501,,Indian/Antananarivo,PPLC
+Heze,China,CN,East and Southeast Asia,35.23929,115.47358,1346717,,Asia/Shanghai,PPLA2
+Antalya,Turkey,TR,Middle East,36.90812,30.69556,1344000,,Europe/Istanbul,PPLA
+Abobo,Côte d'Ivoire,CI,Africa,5.41613,-4.0159,1340083,,Africa/Abidjan,PPL
+Jamshedpur,India,IN,South Asia,22.80278,86.18545,1339438,,Asia/Kolkata,PPL
+Douala,Cameroon,CM,Africa,4.04827,9.70428,1338082,,Africa/Douala,PPLA
+Basrah,Iraq,IQ,Middle East,30.50852,47.7804,1326564,,Asia/Baghdad,PPLA
+Dallas,United States,US,North America,32.78306,-96.80667,1326087,128.0,America/Chicago,PPLA2
+Saitama,Japan,JP,East and Southeast Asia,35.90807,139.65657,1324854,,Asia/Tokyo,PPLA
+Gorakhpur,India,IN,South Asia,29.44768,75.67206,1324570,,Asia/Kolkata,PPL
+Niamey,Niger,NE,Africa,13.51366,2.1098,1323691,,Africa/Niamey,PPLC
+Liupanshui,China,CN,East and Southeast Asia,26.59444,104.83333,1320825,,Asia/Shanghai,PPL
+Taguig,Philippines,PH,East and Southeast Asia,14.5243,121.0792,1308085,,Asia/Manila,PPLA3
+Maoming,China,CN,East and Southeast Asia,21.66625,110.91364,1307802,,Asia/Shanghai,PPLA2
+Calgary,Canada,CA,North America,51.05011,-114.08529,1306784,1048.0,America/Edmonton,PPL
+Tripoli,Libya,LY,Africa,32.88743,13.18733,1302947,,Africa/Tripoli,PPLC
+Callao,Peru,PE,South America,-12.05162,-77.13452,1300000,,America/Lima,PPLA
+Madinah,Saudi Arabia,SA,Middle East,24.46861,39.61417,1300000,,Asia/Riyadh,PPLA
+Yaounde,Cameroon,CM,Africa,3.86667,11.51667,1299369,,Africa/Douala,PPLC
+Qinzhou,China,CN,East and Southeast Asia,21.98247,108.65061,1296300,,Asia/Shanghai,PPLA2
+Luohe,China,CN,East and Southeast Asia,33.56394,114.04272,1294974,,Asia/Shanghai,PPLA2
+Xiangyang,China,CN,East and Southeast Asia,32.0422,112.14479,1294733,,Asia/Shanghai,PPLA2
+Yangjiang,China,CN,East and Southeast Asia,21.85563,111.96272,1292987,,Asia/Shanghai,PPLA2
+Yixing,China,CN,East and Southeast Asia,31.36059,119.82016,1285785,,Asia/Shanghai,PPLA3
+Pimpri,India,IN,South Asia,18.62292,73.80696,1284606,,Asia/Kolkata,PPL
+Da Nang,Vietnam,VN,East and Southeast Asia,16.06778,108.22083,1276000,,Asia/Ho_Chi_Minh,PPLA
+Amman,Jordan,JO,Middle East,31.95522,35.94503,1275857,,Asia/Amman,PPLC
+Budta,Philippines,PH,East and Southeast Asia,7.20417,124.43972,1273715,,Asia/Manila,PPL
+Belgrade,Serbia,RS,Europe,44.80401,20.46513,1273651,,Europe/Belgrade,PPLC
+Bien Hoa,Vietnam,VN,East and Southeast Asia,10.94469,106.82432,1272235,,Asia/Ho_Chi_Minh,PPLA
+Montevideo,Uruguay,UY,South America,-34.90328,-56.18816,1270737,,America/Montevideo,PPLC
+Xuchang,China,CN,East and Southeast Asia,34.03189,113.86299,1265536,,Asia/Shanghai,PPLA2
+Kalyan,India,IN,South Asia,19.2437,73.13554,1262255,,Asia/Kolkata,PPL
+Zigong,China,CN,East and Southeast Asia,29.34162,104.77689,1262064,,Asia/Shanghai,PPL
+Munich,Germany,DE,Europe,48.13743,11.57549,1260391,,Europe/Berlin,PPLA
+Nizhniy Novgorod,Russia,RU,Central Asia,56.32867,44.00205,1259013,,Europe/Moscow,PPLA
+Jepara,Indonesia,ID,East and Southeast Asia,-6.5924,110.671,1257912,,Asia/Jakarta,PPLA2
+Maputo,Mozambique,MZ,Africa,-25.96553,32.58322,1254837,,Africa/Maputo,PPLC
+Xuzhou,China,CN,East and Southeast Asia,34.20442,117.28386,1253991,,Asia/Shanghai,PPLA2
+Dammam,Saudi Arabia,SA,Middle East,26.43442,50.10326,1252523,,Asia/Riyadh,PPLA
+Ra's Bayrut,Lebanon,LB,Middle East,33.9,35.48333,1251739,,Asia/Beirut,PPLX
+Neijiang,China,CN,East and Southeast Asia,29.58354,105.06216,1251095,,Asia/Shanghai,PPLA3
+Shiraz,Iran,IR,Middle East,29.61031,52.53113,1249942,,Asia/Tehran,PPLA
+Heshan,China,CN,East and Southeast Asia,28.56938,112.34733,1249807,,Asia/Shanghai,PPLA2
+Dombivali,India,IN,South Asia,19.21667,73.08333,1247327,,Asia/Kolkata,PPL
+Kananga,DRC,CD,Africa,-5.89624,22.41659,1247168,,Africa/Lubumbashi,PPLA
+Kazan,Russia,RU,Central Asia,55.78874,49.12214,1243500,,Europe/Moscow,PPLA
+Jining,China,CN,East and Southeast Asia,35.405,116.58139,1241012,,Asia/Shanghai,PPL
+Barquisimeto,Venezuela,VE,South America,10.0647,-69.35703,1240714,,America/Caracas,PPLA
+Shubra al Khaymah,Egypt,EG,Africa,30.12511,31.25053,1240289,,Africa/Cairo,PPLA2
+Port-au-Prince,Haiti,HT,Central America and Caribbean,18.54349,-72.33881,1234742,,America/Port-au-Prince,PPLC
+Xinyang,China,CN,East and Southeast Asia,32.12278,114.06556,1230042,,Asia/Shanghai,PPL
+Liaocheng,China,CN,East and Southeast Asia,36.45064,116.00247,1229768,,Asia/Shanghai,PPLA2
+Jinzhong,China,CN,East and Southeast Asia,37.68403,112.75471,1226617,,Asia/Shanghai,PPLA2
+Meerut,India,IN,South Asia,28.98002,77.70636,1223184,,Asia/Kolkata,PPL
+Virar,India,IN,South Asia,19.45591,72.81136,1222390,,Asia/Kolkata,PPL
+Nowrangapur,India,IN,South Asia,19.23114,82.54826,1220946,,Asia/Kolkata,PPLA2
+Karbala,Iraq,IQ,Middle East,32.61603,44.02488,1218732,,Asia/Baghdad,PPLA
+Changzhi,China,CN,East and Southeast Asia,36.18389,113.10528,1214940,,Asia/Shanghai,PPLA2
+Tianshui,China,CN,East and Southeast Asia,34.57952,105.74238,1212791,,Asia/Shanghai,PPLA3
+Mombasa,Kenya,KE,Africa,-4.05466,39.66359,1208333,,Africa/Nairobi,PPLA
+Mandalay,Burma,MM,East and Southeast Asia,21.97473,96.08359,1208099,,Asia/Yangon,PPLA
+Srinagar,India,IN,South Asia,34.08565,74.80555,1206419,,Asia/Kolkata,PPLA
+Barranquilla,Colombia,CO,South America,10.96854,-74.78132,1206319,,America/Bogota,PPLA
+Chelyabinsk,Russia,RU,Central Asia,55.1611,61.42877,1202371,,Asia/Yekaterinburg,PPLA
+Merida,Mexico,MX,North America,20.967,-89.62318,1201000,,America/Merida,PPLA
+Hiroshima,Japan,JP,East and Southeast Asia,34.4,132.45,1200754,,Asia/Tokyo,PPLA
+Santiago de los Caballeros,The Dominican,DO,Central America and Caribbean,19.45036,-70.69085,1200000,,America/Santo_Domingo,PPLA
+Shymkent,Kazakhstan,KZ,Central Asia,42.30988,69.60042,1200000,,Asia/Almaty,PPLA
+Weinan,China,CN,East and Southeast Asia,34.50355,109.50891,1199290,,Asia/Shanghai,PPLA2
+Ghaziabad,India,IN,South Asia,28.66535,77.43915,1199191,,Asia/Kolkata,PPLA2
+Matola,Mozambique,MZ,Africa,-25.96222,32.45889,1198988,,Africa/Maputo,PPLA
+Dhanbad,India,IN,South Asia,23.79759,86.42992,1196214,,Asia/Kolkata,PPLA2
+Hong Kong Island,Hong Kong,HK,East and Southeast Asia,22.26302,114.18419,1195529,,Asia/Hong_Kong,PPLX
+Fes,Morocco,MA,Africa,34.03313,-5.00028,1191905,,Africa/Casablanca,PPLA
+Suwon,South Korea,KR,East and Southeast Asia,37.29111,127.00889,1191063,,Asia/Seoul,PPLA
+Gustavo Adolfo Madero,Mexico,MX,North America,19.49392,-99.11075,1185772,,America/Mexico_City,PPL
+Nouakchott,Mauritania,MR,Africa,18.08581,-15.9785,1184530,,Africa/Nouakchott,PPLC
+Kisangani,DRC,CD,Africa,0.51528,25.19099,1181788,,Africa/Lubumbashi,PPLA
+Jiaxing,China,CN,East and Southeast Asia,30.7522,120.75,1180000,,Asia/Shanghai,PPLA2
+Aurangabad,India,IN,South Asia,19.87757,75.34226,1175116,,Asia/Kolkata,PPLA2
+Omsk,Russia,RU,Central Asia,54.99244,73.36859,1172070,,Asia/Omsk,PPLA
+Guarulhos,Brazil,BR,South America,-23.46278,-46.53333,1169577,,America/Sao_Paulo,PPL
+Bandar Lampung,Indonesia,ID,East and Southeast Asia,-5.42917,105.26111,1166066,,Asia/Jakarta,PPLA
+Prague,Czechia,CZ,Europe,50.08804,14.42076,1165581,,Europe/Prague,PPLC
+Varanasi,India,IN,South Asia,25.31668,83.01041,1164404,,Asia/Kolkata,PPL
+Batam,Indonesia,ID,East and Southeast Asia,1.14937,104.02491,1164352,,Asia/Jakarta,PPL
+Jiujiang,China,CN,East and Southeast Asia,29.70475,116.00206,1164268,,Asia/Shanghai,PPLA2
+Samara,Russia,RU,Central Asia,53.20767,50.13553,1163399,,Europe/Samara,PPLA
+Aba,Nigeria,NG,Africa,5.10658,7.36667,1160000,,Africa/Lagos,PPLA2
+Amritsar,India,IN,South Asia,31.62234,74.87534,1159227,,Asia/Kolkata,PPL
+Birmingham,United Kingdom,GB,Europe,52.48142,-1.89983,1157603,,Europe/London,PPLA2
+Copenhagen,Denmark,DK,Europe,55.67594,12.56553,1153615,,Europe/Copenhagen,PPLC
+Sofia,Bulgaria,BG,Europe,42.69751,23.32415,1152556,,Europe/Sofia,PPLC
+Anyang,China,CN,East and Southeast Asia,36.096,114.38278,1146839,,Asia/Shanghai,PPLA2
+Yerevan,Armenia,AM,Middle East,40.17765,44.5126,1144700,,Asia/Yerevan,PPLC
+Luohu District,China,CN,East and Southeast Asia,22.54721,114.13149,1143801,,Asia/Shanghai,PPLX
+Vijayawada,India,IN,South Asia,16.50745,80.6466,1143232,,Asia/Kolkata,PPL
+Bijie,China,CN,East and Southeast Asia,27.30193,105.28627,1137383,,Asia/Shanghai,PPLA2
+Monterrey,Mexico,MX,North America,25.68435,-100.31721,1135512,,America/Monterrey,PPLA
+Kigali,Rwanda,RW,Africa,-1.94995,30.05885,1132686,,Africa/Kigali,PPLC
+Rostov-na-Donu,Russia,RU,Central Asia,47.21997,39.70769,1130305,,Europe/Moscow,PPLA
+Zhuzhou,China,CN,East and Southeast Asia,27.83333,113.15,1129687,,Asia/Shanghai,PPLA2
+Bogor,Indonesia,ID,East and Southeast Asia,-6.59444,106.78917,1127408,,Asia/Jakarta,PPL
+Malingao,Philippines,PH,East and Southeast Asia,7.16083,124.475,1121974,,Asia/Manila,PPL
+Touba,Senegal,SN,Africa,14.86229,-15.87532,1120824,,Africa/Dakar,PPL
+Ufa,Russia,RU,Central Asia,54.74306,55.96779,1120547,,Asia/Yekaterinburg,PPLA
+Ranchi,India,IN,South Asia,23.34316,85.3094,1120374,,Asia/Kolkata,PPLA
+Baku,Azerbaijan,AZ,Middle East,40.37767,49.89201,1116513,,Asia/Baku,PPLC
+Shangrao,China,CN,East and Southeast Asia,28.45179,117.94287,1116486,,Asia/Shanghai,PPLA2
+Lilongwe,Malawi,MW,Africa,-13.96692,33.78725,1115815,,Africa/Blantyre,PPLC
+Huaibei,China,CN,East and Southeast Asia,33.97444,116.79167,1113321,,Asia/Shanghai,PPLA2
+Maiduguri,Nigeria,NG,Africa,11.84692,13.15712,1110000,,Africa/Lagos,PPLA
+Meishan,China,CN,East and Southeast Asia,30.04392,103.83696,1107742,,Asia/Shanghai,PPLA2
+Mwanza,Tanzania,TZ,Africa,-2.51667,32.9,1104521,,Africa/Dar_es_Salaam,PPLA
+Sendai,Japan,JP,East and Southeast Asia,38.26667,140.86667,1096704,,Asia/Tokyo,PPLA
+Ulsan,South Korea,KR,East and Southeast Asia,35.53722,129.31667,1095014,,Asia/Seoul,PPLA
+Krasnoyarsk,Russia,RU,Central Asia,56.03742,92.93136,1090811,,Asia/Krasnoyarsk,PPLA
+Fuzhou,China,CN,East and Southeast Asia,27.95999,116.33333,1089888,,Asia/Shanghai,PPLA2
+Guigang,China,CN,East and Southeast Asia,23.11603,109.59472,1086327,,Asia/Shanghai,PPLA2
+Pekanbaru,Indonesia,ID,East and Southeast Asia,0.51667,101.44167,1085000,,Asia/Jakarta,PPLA
+Oslo,Norway,NO,Europe,59.91273,10.74609,1082575,,Europe/Oslo,PPLC
+Jabalpur,India,IN,South Asia,23.16697,79.95006,1081677,,Asia/Kolkata,PPL
+Ilorin,Nigeria,NG,Africa,8.49664,4.54214,1080000,,Africa/Lagos,PPLA
+Aden,Yemen,YE,Middle East,12.77957,45.03852,1079670,,Asia/Aden,PPLA
+Ciudad Nezahualcoyotl,Mexico,MX,North America,19.40061,-99.01483,1077208,,America/Mexico_City,PPL
+Hengyang,China,CN,East and Southeast Asia,26.88946,112.61888,1075516,,Asia/Shanghai,PPL
+Prayagraj,India,IN,South Asia,25.44478,81.84322,1073438,,Asia/Kolkata,PPL
+Visakhapatnam,India,IN,South Asia,17.68009,83.20161,1063178,,Asia/Kolkata,PPLA2
+Goyang-si,South Korea,KR,East and Southeast Asia,37.65639,126.835,1061752,,Asia/Seoul,PPLA2
+Yulin,China,CN,East and Southeast Asia,22.6305,110.14686,1056743,,Asia/Shanghai,PPLA3
+Jodhpur,India,IN,South Asia,26.26841,73.00594,1056191,,Asia/Kolkata,PPL
+Gwalior,India,IN,South Asia,26.22983,78.17337,1054420,,Asia/Kolkata,PPL
+Jingzhou,China,CN,East and Southeast Asia,30.35028,112.19028,1052282,,Asia/Shanghai,PPLA2
+Gqeberha,South Africa,ZA,Africa,-33.96109,25.61494,1050078,,Africa/Johannesburg,PPLA2
+Tbilisi,Georgia,GE,Middle East,41.69143,44.83412,1049498,,Asia/Tbilisi,PPLC
+Voronezh,Russia,RU,Central Asia,51.66833,39.19204,1047549,,Europe/Moscow,PPLA
+Xinxiang,China,CN,East and Southeast Asia,35.19033,113.80151,1047088,,Asia/Shanghai,PPLA2
+Yichun,China,CN,East and Southeast Asia,27.83333,114.4,1045952,,Asia/Shanghai,PPLA2
+Jos,Nigeria,NG,Africa,9.92849,8.89212,1040000,,Africa/Lagos,PPLA
+Sokoto,Nigeria,NG,Africa,13.06269,5.24322,1040000,,Africa/Lagos,PPLA
+Tangier,Morocco,MA,Africa,35.76727,-5.79975,1035141,,Africa/Casablanca,PPLA
+Teni,India,IN,South Asia,10.01115,77.47772,1034724,,Asia/Kolkata,PPLX
+Xianyang,China,CN,East and Southeast Asia,34.33778,108.70261,1034081,,Asia/Shanghai,PPLA3
+Mexicali,Mexico,MX,North America,32.62781,-115.45446,1032686,,America/Tijuana,PPLA
+Pointe-Noire,Congo (Brazzaville),CG,Africa,-4.77609,11.86352,1032000,,Africa/Brazzaville,PPLA
+Maceio,Brazil,BR,South America,-9.66583,-35.73528,1031597,,America/Maceio,PPLA
+Campinas,Brazil,BR,South America,-22.90556,-47.06083,1031554,,America/Sao_Paulo,PPL
+Sanya,China,CN,East and Southeast Asia,18.25435,109.50947,1031396,,Asia/Shanghai,PPLA2
+Rangpur,Bangladesh,BD,South Asia,25.74664,89.25166,1031388,,Asia/Dhaka,PPLA
+Kirkuk,Iraq,IQ,Middle East,35.46806,44.39222,1031000,,Asia/Baghdad,PPLA
+Comilla,Bangladesh,BD,South Asia,23.46186,91.18503,1030000,,Asia/Dhaka,PPL
+Shaoguan,China,CN,East and Southeast Asia,24.8,113.58333,1028460,,Asia/Shanghai,PPLA2
+Howrah,India,IN,South Asia,22.57688,88.31857,1027672,,Asia/Kolkata,PPL
+Raipur,India,IN,South Asia,21.23333,81.63333,1027264,,Asia/Kolkata,PPLA
+Changwon,South Korea,KR,East and Southeast Asia,35.22806,128.68111,1025702,,Asia/Seoul,PPLA
+Longyan,China,CN,East and Southeast Asia,25.07485,117.01775,1025087,,Asia/Shanghai,PPLA2
+Dublin,Ireland,IE,Europe,53.33306,-6.24889,1024027,,Europe/Dublin,PPLC
+Tiruchirappalli,India,IN,South Asia,10.8155,78.69651,1022518,,Asia/Kolkata,PPL
+Yongzhou,China,CN,East and Southeast Asia,26.42389,111.61306,1020715,,Asia/Shanghai,PPLA2
+Brussels,Belgium,BE,Europe,50.85045,4.34878,1019022,,Europe/Brussels,PPLC
+Zamboanga,Philippines,PH,East and Southeast Asia,6.91028,122.07389,1018849,,Asia/Manila,PPLA2
+Ottawa,Canada,CA,North America,45.41117,-75.69812,1017449,,America/Toronto,PPLC
+Huzhou,China,CN,East and Southeast Asia,30.8703,120.0933,1015937,,Asia/Shanghai,PPLA2
+Odesa,Ukraine,UA,Europe,46.48572,30.74383,1015826,50.0,Europe/Kyiv,PPLA
+Volgograd,Russia,RU,Central Asia,48.71378,44.4976,1013533,,Europe/Volgograd,PPLA
+Khartoum North,Sudan,SD,Africa,15.64925,32.53458,1012211,,Africa/Khartoum,PPL
+Edmonton,Canada,CA,North America,53.55014,-113.46871,1010899,668.0,America/Edmonton,PPLA
+Wuwei,China,CN,East and Southeast Asia,37.92672,102.63202,1010295,,Asia/Shanghai,PPLA2
+Jacksonville,United States,US,North America,30.33218,-81.65565,1009833,5.0,America/New_York,PPLA2
+Arequipa,Peru,PE,South America,-16.39899,-71.53747,1008290,,America/Lima,PPLA
+Fort Worth,United States,US,North America,32.72541,-97.32085,1008106,199.0,America/Chicago,PPLA2
+Hanzhong,China,CN,East and Southeast Asia,33.07507,107.02214,1006557,,Asia/Shanghai,PPLA2
+Hezhou,China,CN,East and Southeast Asia,24.40357,111.56675,1005490,,Asia/Shanghai,PPLA2
+Kota,India,IN,South Asia,25.18254,75.83907,1001694,,Asia/Kolkata,PPL
+Zhu Cheng City,China,CN,East and Southeast Asia,35.99502,119.40259,1000000,,Asia/Shanghai,PPLA3
+Shivaji Nagar,India,IN,South Asia,18.53017,73.85263,1000000,1000.0,Asia/Kolkata,PPLX
+Dongying,China,CN,East and Southeast Asia,37.46271,118.49165,998968,,Asia/Shanghai,PPLA2
+Luzhou,China,CN,East and Southeast Asia,28.8903,105.42575,998900,,Asia/Shanghai,PPLA2
+San Jose,United States,US,North America,37.33939,-121.89496,997368,26.0,America/Los_Angeles,PPLA2
+Sholapur,India,IN,South Asia,17.67152,75.91044,997281,,Asia/Kolkata,PPL
+Marrakesh,Morocco,MA,Africa,31.63416,-7.99994,995871,,Africa/Casablanca,PPLA
+Guatemala City,Guatemala,GT,Central America and Caribbean,14.64072,-90.51327,994938,,America/Guatemala,PPLC
+Meizhou,China,CN,East and Southeast Asia,24.28859,116.11768,992351,,Asia/Shanghai,PPLA2
+Yueyang,China,CN,East and Southeast Asia,29.37455,113.09481,991465,,Asia/Shanghai,PPL
+Laiwu,China,CN,East and Southeast Asia,36.19278,117.65694,989535,,Asia/Shanghai,PPLA3
+Benxi,China,CN,East and Southeast Asia,41.28861,123.765,987717,,Asia/Shanghai,PPL
+Perm,Russia,RU,Central Asia,58.01046,56.25017,982419,,Asia/Yekaterinburg,PPLA
+Zaria,Nigeria,NG,Africa,11.11128,7.7227,980000,,Africa/Lagos,PPL
+Chiba,Japan,JP,East and Southeast Asia,35.6,140.11667,979768,,Asia/Tokyo,PPLA
+Pingdingshan,China,CN,East and Southeast Asia,33.73091,113.31554,979130,,Asia/Shanghai,PPLA2
+Ciudad Guayana,Venezuela,VE,South America,8.35122,-62.64102,978202,,America/Caracas,PPLA2
+Sargodha,Pakistan,PK,South Asia,32.08586,72.67418,975886,,Asia/Karachi,PPLA2
+Austin,United States,US,North America,30.26715,-97.74306,974447,149.0,America/Chicago,PPLA
+Managua,Nicaragua,NI,Central America and Caribbean,12.13282,-86.2504,973087,,America/Managua,PPLC
+Bengbu,China,CN,East and Southeast Asia,32.94083,117.36083,972784,,Asia/Shanghai,PPL
+Sale,Morocco,MA,Africa,34.0531,-6.79846,972299,,Africa/Casablanca,PPL
+Jerusalem,Israel,IL,Middle East,31.76904,35.21633,971800,,Asia/Jerusalem,PPLA
+Chandigarh,India,IN,South Asia,30.73629,76.7884,970602,,Asia/Kolkata,PPLA
+Dnipro,Ukraine,UA,Europe,48.46664,35.04066,968502,120.0,Europe/Kyiv,PPLA
+Cebu City,Philippines,PH,East and Southeast Asia,10.31672,123.89071,965332,,Asia/Manila,PPLA
+Sanhe,China,CN,East and Southeast Asia,39.98049,117.06887,965075,,Asia/Shanghai,PPLA3
+Koeln,Germany,DE,Europe,50.93333,6.95,963395,,Europe/Berlin,PPLA2
+Tiruppur,India,IN,South Asia,11.11541,77.35456,963173,,Asia/Kolkata,PPL
+Guwahati,India,IN,South Asia,26.1844,91.7458,962334,,Asia/Kolkata,PPL
+Xiangtan,China,CN,East and Southeast Asia,27.85,112.9,959303,,Asia/Shanghai,PPLA2
+Linfen,China,CN,East and Southeast Asia,36.08889,111.51889,959198,,Asia/Shanghai,PPL
+Victoria,Hong Kong,HK,East and Southeast Asia,22.2875,114.14417,956800,,Asia/Hong_Kong,PPL
+Zhenjiang,China,CN,East and Southeast Asia,32.21086,119.45508,950516,,Asia/Shanghai,PPLA2
+Enugu,Nigeria,NG,Africa,6.44132,7.49883,950000,,Africa/Lagos,PPLA
+Rosario,Argentina,AR,South America,-32.94682,-60.63932,948312,,America/Argentina/Cordoba,PPLA2
+Sultanah,Saudi Arabia,SA,Middle East,24.49258,39.58572,946697,,Asia/Riyadh,PPL
+Huludao,China,CN,East and Southeast Asia,40.75243,120.83552,944495,,Asia/Shanghai,PPLA2
+Hubballi,India,IN,South Asia,15.34776,75.13378,943788,627.0,Asia/Kolkata,PPL
+Kitakyushu,Japan,JP,East and Southeast Asia,33.85181,130.85034,940978,,Asia/Tokyo,PPLA2
+Taiz,Yemen,YE,Middle East,13.57952,44.02091,940600,1400.0,Asia/Aden,PPLA
+Setagaya,Japan,JP,East and Southeast Asia,35.64188,139.64715,940071,,Asia/Tokyo,PPLX
+Kingston,Jamaica,JM,Central America and Caribbean,17.99702,-76.79358,937700,,America/Jamaica,PPLC
+Baoshan,China,CN,East and Southeast Asia,25.11626,99.16366,935618,,Asia/Shanghai,PPLA2
+Rui'an,China,CN,East and Southeast Asia,27.77605,120.65859,927383,,Asia/Shanghai,PPL
+Chihuahua,Mexico,MX,North America,28.63528,-106.08889,925762,,America/Chihuahua,PPLA
+Nay Pyi Taw,Burma,MM,East and Southeast Asia,19.745,96.12972,925000,,Asia/Yangon,PPLC
+Mysuru,India,IN,South Asia,12.29791,76.63925,920550,,Asia/Kolkata,PPLA2
+Trujillo,Peru,PE,South America,-8.11599,-79.02998,919899,,America/Lima,PPLA
+Salem,India,IN,South Asia,11.65376,78.15538,917414,,Asia/Kolkata,PPL
+Sao Luis,Brazil,BR,South America,-2.52972,-44.30278,917237,,America/Fortaleza,PPLA
+Seongnam-si,South Korea,KR,East and Southeast Asia,37.43861,127.13778,914832,,Asia/Seoul,PPL
+Cartagena,Colombia,CO,South America,10.39817,-75.49328,914552,,America/Bogota,PPLA
+Antipolo,Philippines,PH,East and Southeast Asia,14.62578,121.12251,913712,,Asia/Manila,PPLA2
+Columbus,United States,US,North America,39.96118,-82.99879,913175,235.0,America/New_York,PPLA
+Sialkot,Pakistan,PK,South Asia,32.49268,74.53134,911817,,Asia/Karachi,PPLA2
+Charlotte,United States,US,North America,35.22709,-80.84313,911311,229.0,America/New_York,PPLA2
+Laibin,China,CN,East and Southeast Asia,23.74743,109.22222,910282,,Asia/Shanghai,PPLA2
+Warri,Nigeria,NG,Africa,5.51737,5.75006,910000,,Africa/Lagos,PPLA2
+Naples,Italy,IT,Europe,40.85216,14.26811,909048,17.0,Europe/Rome,PPLA
+Padang,Indonesia,ID,East and Southeast Asia,-0.94924,100.35427,909040,,Asia/Jakarta,PPLA
+Xiaogan,China,CN,East and Southeast Asia,30.92689,113.92221,908266,,Asia/Shanghai,PPLA2
+Campo Grande,Brazil,BR,South America,-20.44278,-54.64639,906092,,America/Campo_Grande,PPLA
+Ziyang,China,CN,East and Southeast Asia,30.12108,104.64811,905729,,Asia/Shanghai,PPLA2
+Bobo-Dioulasso,Burkina Faso,BF,Africa,11.18064,-4.29489,904920,,Africa/Ouagadougou,PPLA
+Bahawalpur,Pakistan,PK,South Asia,29.39779,71.6752,903795,,Asia/Karachi,PPLA2
+Quzhou,China,CN,East and Southeast Asia,28.95944,118.86861,902767,,Asia/Shanghai,PPL
+Blantyre,Malawi,MW,Africa,-15.78499,35.00854,902588,,Africa/Blantyre,PPLA
+Donetsk,Ukraine,UA,Europe,48.023,37.80224,901645,,Europe/Kyiv,PPLA
+Abu Ghurayb,Iraq,IQ,Middle East,33.30563,44.18477,900000,,Asia/Baghdad,PPLA2
+Qom,Iran,IR,Middle East,34.6401,50.8764,900000,,Asia/Tehran,PPLA
+Bishkek,Kyrgyzstan,KG,Central Asia,42.87,74.59,900000,,Asia/Bishkek,PPLC
+Zaozhuang,China,CN,East and Southeast Asia,34.86472,117.55417,899753,,Asia/Shanghai,PPL
+Krasnodar,Russia,RU,Central Asia,45.04534,38.98178,899541,,Europe/Moscow,PPLA
+Natal,Brazil,BR,South America,-5.795,-35.20944,896708,,America/Fortaleza,PPLA
+Pingxiang,China,CN,East and Southeast Asia,27.61672,113.85353,893550,,Asia/Shanghai,PPLA2
+Cancun,Mexico,MX,North America,21.17429,-86.84656,888797,,America/Cancun,PPL
+Indianapolis,United States,US,North America,39.76838,-86.15804,887642,218.0,America/Indiana/Indianapolis,PPLA
+Gurugram,India,IN,South Asia,28.4601,77.02635,886519,,Asia/Kolkata,PPLA2
+Bhubaneswar,India,IN,South Asia,20.27241,85.83385,885363,,Asia/Kolkata,PPLA
+Zhoushan,China,CN,East and Southeast Asia,29.98869,122.20488,882932,,Asia/Shanghai,PPLA3
+Qiqihar,China,CN,East and Southeast Asia,47.33922,123.96154,882364,,Asia/Shanghai,PPLA2
+Sulaymaniyah,Iraq,IQ,Middle East,35.56496,45.4329,878146,,Asia/Baghdad,PPLA
+Marseille,France,FR,Europe,43.29695,5.38107,877215,,Europe/Paris,PPLA
+Puning,China,CN,East and Southeast Asia,23.31072,116.16869,874954,,Asia/Shanghai,PPL
+Pikine,Senegal,SN,Africa,14.76457,-17.39071,874062,,Africa/Dakar,PPL
+Bhiwandi,India,IN,South Asia,19.30023,73.05881,874032,,Asia/Kolkata,PPL
+Soshanguve,South Africa,ZA,Africa,-25.47288,28.09919,872309,,Africa/Johannesburg,PPL
+Teresina,Brazil,BR,South America,-5.08917,-42.80194,871126,,America/Fortaleza,PPLA
+Ankang,China,CN,East and Southeast Asia,32.68,109.01722,870126,,Asia/Shanghai,PPLA2
+Jalandhar,India,IN,South Asia,31.32556,75.57917,868929,,Asia/Kolkata,PPL
+Rotterdam,Netherlands,NL,Europe,51.9225,4.47917,868135,,Europe/Amsterdam,PPL
+Langfang,China,CN,East and Southeast Asia,39.52079,116.71471,868066,,Asia/Shanghai,PPLA2
+Jiaozuo,China,CN,East and Southeast Asia,35.23925,113.23914,865413,,Asia/Shanghai,PPLA2
+Rohini,India,IN,South Asia,28.74322,77.06778,860000,,Asia/Kolkata,PPLX
+Wanxian,China,CN,East and Southeast Asia,30.81601,108.37407,859662,,Asia/Shanghai,PPLA3
+Guang'an,China,CN,East and Southeast Asia,30.47413,106.63696,858159,,Asia/Shanghai,PPLA2
+Johor Bahru,Malaysia,MY,East and Southeast Asia,1.4655,103.7578,858118,,Asia/Kuala_Lumpur,PPLA
+Cheongju-si,South Korea,KR,East and Southeast Asia,36.63722,127.48972,853938,,Asia/Seoul,PPLA
+Pasig City,Philippines,PH,East and Southeast Asia,14.58691,121.0614,853050,,Asia/Manila,PPLA2
+Kanayannur,India,IN,South Asia,9.96667,76.26667,851406,,Asia/Kolkata,PPL
+Tegucigalpa,Honduras,HN,Central America and Caribbean,14.0818,-87.20681,850848,,America/Tegucigalpa,PPLC
+Bucheon-si,South Korea,KR,East and Southeast Asia,37.49889,126.78306,850731,,Asia/Seoul,PPL
+Thanh Hoa,Vietnam,VN,East and Southeast Asia,19.8,105.76667,850000,,Asia/Bangkok,PPLA
+Turin,Italy,IT,Europe,45.07049,7.68682,847287,239.0,Europe/Rome,PPLA
+Malang,Indonesia,ID,East and Southeast Asia,-7.9797,112.6304,847182,,Asia/Jakarta,PPL
+Al Ain City,United Arab Emirates,AE,Middle East,24.19167,55.76056,846747,,Asia/Dubai,PPL
+Libreville,Gabon,GA,Africa,0.39241,9.45356,846090,,Africa/Libreville,PPLC
+Saratov,Russia,RU,Central Asia,51.54048,45.9901,844858,,Europe/Saratov,PPLA
+Ulan Bator,Mongolia,MN,East and Southeast Asia,47.90771,106.88324,844818,,Asia/Ulaanbaatar,PPLC
+Weihai,China,CN,East and Southeast Asia,37.50914,122.11356,844310,,Asia/Shanghai,PPLA2
+Takeo,Cambodia,KH,East and Southeast Asia,10.99081,104.78498,843931,,Asia/Phnom_Penh,PPLA
+Cochabamba,Bolivia,BO,South America,-17.38195,-66.15995,841276,,America/La_Paz,PPLA
+Ahvaz,Iran,IR,Middle East,31.31901,48.6842,841145,,Asia/Tehran,PPLA
+Zhabei,China,CN,East and Southeast Asia,31.25861,121.45972,840000,,Asia/Shanghai,PPLX
+Xinyu,China,CN,East and Southeast Asia,27.80429,114.93335,839488,,Asia/Shanghai,PPLA2
+Pietermaritzburg,South Africa,ZA,Africa,-29.61679,30.39278,839327,,Africa/Johannesburg,PPLA
+Yibin,China,CN,East and Southeast Asia,28.7593,104.63994,836340,,Asia/Shanghai,PPLA3
+Naucalpan de Juarez,Mexico,MX,North America,19.47851,-99.23963,834434,,America/Mexico_City,PPLA2
+Kampung Baru Subang,Malaysia,MY,East and Southeast Asia,3.15,101.53333,833571,,Asia/Kuala_Lumpur,PPL
+Bouake,Côte d'Ivoire,CI,Africa,7.69385,-5.03031,832371,,Africa/Abidjan,PPLA
+Samarinda,Indonesia,ID,East and Southeast Asia,-0.49167,117.14583,831460,,Asia/Makassar,PPLA
+Taicang,China,CN,East and Southeast Asia,31.44778,121.09389,831113,,Asia/Shanghai,PPLA3
+San Francisco,United States,US,North America,37.77493,-122.41942,827526,16.0,America/Los_Angeles,PPLA2
+Sakai,Japan,JP,East and Southeast Asia,34.58216,135.46653,826161,,Asia/Tokyo,PPLA2
+Valencia,Spain,ES,Europe,39.47391,-0.37966,824340,15.0,Europe/Madrid,PPLA
+Nova Iguacu,Brazil,BR,South America,-22.75917,-43.45111,823302,,America/Sao_Paulo,PPLA2
+Chenzhou,China,CN,East and Southeast Asia,25.8,113.03333,822534,,Asia/Shanghai,PPLA2
+Duque de Caxias,Brazil,BR,South America,-22.78556,-43.31167,818329,,America/Sao_Paulo,PPL
+Joao Pessoa,Brazil,BR,South America,-7.115,-34.86306,817511,,America/Fortaleza,PPLA
+Bukavu,DRC,CD,Africa,-2.49077,28.84281,816811,,Africa/Lubumbashi,PPLA
+Barcelona,Venezuela,VE,South America,10.1384,-64.68769,815141,,America/Caracas,PPLA
+Bangui,Central African Republic,CF,Africa,4.36122,18.55496,812407,,Africa/Bangui,PPLC
+Hermosillo,Mexico,MX,North America,29.08874,-110.96677,812229,,America/Hermosillo,PPLA
+Bhayandar,India,IN,South Asia,19.30157,72.85107,809378,,Asia/Kolkata,PPL
+Culiacan,Mexico,MX,North America,24.80209,-107.39421,808416,,America/Mazatlan,PPLA
+Petaling Jaya,Malaysia,MY,East and Southeast Asia,3.10726,101.60671,807879,,Asia/Kuala_Lumpur,PPLA2
+Malatya,Turkey,TR,Middle East,38.35018,38.31667,806156,,Europe/Istanbul,PPLA
+Anqing,China,CN,East and Southeast Asia,30.51365,117.04723,804493,,Asia/Shanghai,PPLA2
+Krakow,Poland,PL,Europe,50.06143,19.93658,804237,,Europe/Warsaw,PPLA
+Oran,Algeria,DZ,Africa,35.69906,-0.63588,803329,,Africa/Algiers,PPLA
+Freetown,Sierra Leone,SL,Africa,8.48714,-13.2356,802639,,Africa/Freetown,PPLC
+San Pedro Sula,Honduras,HN,Central America and Caribbean,15.50585,-88.02588,801259,,America/Tegucigalpa,PPLA
+Narela,India,IN,South Asia,28.85267,77.09288,800000,,Asia/Kolkata,PPL
+Xingtai,China,CN,East and Southeast Asia,37.06217,114.49272,798770,,Asia/Shanghai,PPLA2
+Niigata,Japan,JP,East and Southeast Asia,37.92259,139.04125,797591,,Asia/Tokyo,PPLA
+Muscat,Oman,OM,Middle East,23.58413,58.40778,797000,,Asia/Muscat,PPLC
+Zarqa,Jordan,JO,Middle East,32.07275,36.08796,792665,,Asia/Amman,PPLA
+Cankaya,Turkey,TR,Middle East,39.9179,32.86268,792189,850.0,Europe/Istanbul,PPL
+Hamamatsu,Japan,JP,East and Southeast Asia,34.7,137.73333,791707,,Asia/Tokyo,PPLA2
+Kolwezi,DRC,CD,Africa,-10.71484,25.46674,790248,,Africa/Lubumbashi,PPLA2
+Vinh,Vietnam,VN,East and Southeast Asia,18.67337,105.69232,790000,,Asia/Bangkok,PPLA
+Eskisehir,Turkey,TR,Middle East,39.77667,30.52056,789023,,Europe/Istanbul,PPLA
+Thiruvananthapuram,India,IN,South Asia,8.4855,76.94924,788271,,Asia/Kolkata,PPLA
+Zhaotong,China,CN,East and Southeast Asia,27.31667,103.71667,787845,,Asia/Shanghai,PPL
+Panzhihua,China,CN,East and Southeast Asia,26.58509,101.71276,787177,,Asia/Shanghai,PPLA2
+Chuzhou,China,CN,East and Southeast Asia,32.32194,118.29778,782671,,Asia/Shanghai,PPLA2
+Seattle,United States,US,North America,47.60621,-122.33207,780995,56.0,America/Los_Angeles,PPLA2
+Port Said,Egypt,EG,Africa,31.26531,32.3019,780515,,Africa/Cairo,PPLA
+Cucuta,Colombia,CO,South America,7.90745,-72.5049,777106,,America/Bogota,PPLA
+Homs,Syria,SY,Middle East,34.72405,36.72559,775404,,Asia/Damascus,PPLA
+Xuancheng,China,CN,East and Southeast Asia,30.9525,118.75528,774332,,Asia/Shanghai,PPLA2
+Ibb,Yemen,YE,Middle East,13.96667,44.18333,771514,,Asia/Aden,PPLA
+Nampula,Mozambique,MZ,Africa,-15.11646,39.2666,770379,,Africa/Maputo,PPLA
+Shangyu,China,CN,East and Southeast Asia,30.01556,120.87111,770000,,Asia/Shanghai,PPL
+Bujumbura,Burundi,BI,Africa,-3.38193,29.36142,769317,,Africa/Bujumbura,PPLA
+Tyumen,Russia,RU,Central Asia,57.15222,65.52722,768358,,Asia/Yekaterinburg,PPLA
+Erzurum,Turkey,TR,Middle East,39.90861,41.27694,767848,,Europe/Istanbul,PPLA
+Anshun,China,CN,East and Southeast Asia,26.25,105.93333,765313,,Asia/Shanghai,PPLA2
+Dodoma,Tanzania,TZ,Africa,-6.17221,35.73947,765179,,Africa/Dar_es_Salaam,PPLC
+Rajshahi,Bangladesh,BD,South Asia,24.374,88.60114,763580,,Asia/Dhaka,PPLA
+Dera Ismail Khan,Pakistan,PK,South Asia,31.83129,70.9017,763195,,Asia/Karachi,PPLA2
+Wuzhou,China,CN,East and Southeast Asia,23.48054,111.28848,761948,,Asia/Shanghai,PPLA2
+Ipoh,Malaysia,MY,East and Southeast Asia,4.5841,101.0829,759952,,Asia/Kuala_Lumpur,PPLA
+Qinhuangdao,China,CN,East and Southeast Asia,39.94104,119.58936,759718,,Asia/Shanghai,PPLA2
+Benghazi,Libya,LY,Africa,32.11486,20.06859,757490,,Africa/Tripoli,PPLA
+Aligarh,India,IN,South Asia,27.88145,78.07464,753207,,Asia/Kolkata,PPL
+Shaoyang,China,CN,East and Southeast Asia,27.23818,111.46214,753194,,Asia/Shanghai,PPLA2
+Winnipeg,Canada,CA,North America,49.8844,-97.14704,749607,,America/Winnipeg,PPLA
+Bagcilar,Turkey,TR,Middle East,41.03903,28.85671,749024,,Europe/Istanbul,PPL
+Ota,Japan,JP,East and Southeast Asia,35.56126,139.71605,748081,,Asia/Tokyo,PPLA2
+Andijon,Uzbekistan,UZ,Central Asia,40.78338,72.35067,747800,,Asia/Tashkent,PPLA
+Bareilly,India,IN,South Asia,28.36678,79.43167,745435,,Asia/Kolkata,PPL
+Buraydah,Saudi Arabia,SA,Middle East,26.32599,43.97497,745353,,Asia/Riyadh,PPLA
+Sao Bernardo do Campo,Brazil,BR,South America,-23.69389,-46.565,743372,,America/Sao_Paulo,PPL
+Hegang,China,CN,East and Southeast Asia,47.34727,130.29033,743307,,Asia/Shanghai,PPLA2
+Morelia,Mexico,MX,North America,19.70078,-101.18443,743275,,America/Mexico_City,PPLA
+Riga,Latvia,LV,Europe,56.946,24.10589,742572,,Europe/Riga,PPLC
+Tasikmalaya,Indonesia,ID,East and Southeast Asia,-7.3274,108.2207,741760,,Asia/Jakarta,PPL
+Amsterdam,Netherlands,NL,Europe,52.37403,4.88969,741636,,Europe/Amsterdam,PPLC
+Cagayan de Oro,Philippines,PH,East and Southeast Asia,8.48222,124.64722,741617,,Asia/Manila,PPLA2
+Ma'anshan,China,CN,East and Southeast Asia,31.68579,118.51008,741531,,Asia/Shanghai,PPLA2
+Shah Alam,Malaysia,MY,East and Southeast Asia,3.08507,101.53281,740750,,Asia/Kuala_Lumpur,PPL
+Shizuishan,China,CN,East and Southeast Asia,38.98082,106.3892,739400,,Asia/Shanghai,PPLA2
+Kumamoto,Japan,JP,East and Southeast Asia,32.80589,130.69181,738907,,Asia/Tokyo,PPLA
+Oyo,Nigeria,NG,Africa,7.85367,3.93235,736072,,Africa/Lagos,PPLA2
+Torreon,Mexico,MX,North America,25.54389,-103.41898,735340,,America/Monterrey,PPLA2
+Deyang,China,CN,East and Southeast Asia,31.13019,104.38198,735070,,Asia/Shanghai,PPLA2
+Abeokuta,Nigeria,NG,Africa,7.15571,3.34509,735000,,Africa/Lagos,PPLA
+Al Hudaydah,Yemen,YE,Middle East,14.79781,42.95452,734699,,Asia/Aden,PPLA
+Yangquan,China,CN,East and Southeast Asia,37.8575,113.56333,731228,,Asia/Shanghai,PPLA2
+Akure,Nigeria,NG,Africa,7.25256,5.19312,730000,,Africa/Lagos,PPLA
+Sao Jose dos Campos,Brazil,BR,South America,-23.17944,-45.88694,729737,600.0,America/Sao_Paulo,PPLA2
+Denver,United States,US,North America,39.73915,-104.9847,729019,1609.0,America/Denver,PPLA
+Osasco,Brazil,BR,South America,-23.5325,-46.79167,728615,,America/Sao_Paulo,PPL
+Ashgabat,Turkmenistan,TM,Central Asia,37.95,58.38333,727700,,Asia/Ashgabat,PPLC
+Alvaro Obregon,Mexico,MX,North America,19.35867,-99.20329,726664,,America/Mexico_City,PPLX
+Aihara,Japan,JP,East and Southeast Asia,35.6,139.31667,725493,,Asia/Tokyo,PPL
+Evaton,South Africa,ZA,Africa,-26.53333,27.85,725468,,Africa/Johannesburg,PPL
+Denpasar,Indonesia,ID,East and Southeast Asia,-8.65,115.21667,725314,,Asia/Makassar,PPLA
+Valenzuela,Philippines,PH,East and Southeast Asia,14.7,120.9667,725173,,Asia/Manila,PPLA3
+Muzaffarabad,Pakistan,PK,South Asia,34.37002,73.47082,725000,,Asia/Karachi,PPLA
+Okayama,Japan,JP,East and Southeast Asia,34.65,133.93333,724691,,Asia/Tokyo,PPLA
+San Luis Potosi,Mexico,MX,North America,22.15234,-100.97135,722772,,America/Monterrey,PPLA
+Aguascalientes,Mexico,MX,North America,21.88262,-102.2843,722250,,America/Mexico_City,PPLA
+General Santos,Philippines,PH,East and Southeast Asia,6.11278,125.17167,722059,,Asia/Manila,PPL
+Zhumadian,China,CN,East and Southeast Asia,32.97944,114.02944,721670,,Asia/Shanghai,PPLA2
+Moradabad,India,IN,South Asia,28.83893,78.77684,721139,,Asia/Kolkata,PPLA2
+Sagamihara,Japan,JP,East and Southeast Asia,35.56707,139.24167,720780,,Asia/Tokyo,PPLA2
+Mississauga,Canada,CA,North America,43.5789,-79.6583,717961,,America/Toronto,PPL
+Lviv,Ukraine,UA,Europe,49.83826,24.02324,717273,,Europe/Kyiv,PPLA
+Namangan,Uzbekistan,UZ,Central Asia,40.9983,71.67257,713220,,Asia/Tashkent,PPLA
+Ribeirao Preto,Brazil,BR,South America,-21.1775,-47.81028,711825,,America/Sao_Paulo,PPLA2
+Zaporizhzhya,Ukraine,UA,Europe,47.85167,35.11714,710052,105.0,Europe/Kyiv,PPLA
+Zanzibar,Tanzania,TZ,Africa,-6.16394,39.19793,709809,,Africa/Dar_es_Salaam,PPLA
+Saltillo,Mexico,MX,North America,25.42595,-100.97963,709671,,America/Monterrey,PPLA
+Latakia,Syria,SY,Middle East,35.53125,35.79088,709000,,Asia/Damascus,PPLA
+Subang Jaya,Malaysia,MY,East and Southeast Asia,3.04384,101.58062,708296,,Asia/Kuala_Lumpur,PPLX
+Warangal,India,IN,South Asia,18.0,79.58333,704570,,Asia/Kolkata,PPLA2
+Paranaque City,Philippines,PH,East and Southeast Asia,14.48156,121.01749,703245,,Asia/Manila,PPLA3
+Tolyatti,Russia,RU,Central Asia,53.5303,49.3461,702879,42.0,Europe/Samara,PPL
+Jaboatao,Brazil,BR,South America,-8.18028,-35.00139,702621,,America/Recife,PPLL
+Santo Domingo Oeste,The Dominican,DO,Central America and Caribbean,18.5,-70.0,701269,,America/Santo_Domingo,PPL
+Santo Domingo Este,The Dominican,DO,Central America and Caribbean,18.48511,-69.84757,700000,,America/Santo_Domingo,PPLA
+Dharavi,India,IN,South Asia,19.05,72.86667,700000,,Asia/Kolkata,PPLX
+Battagram,Pakistan,PK,South Asia,34.67719,73.02329,700000,,Asia/Karachi,PPLA2
+Suez,Egypt,EG,Africa,29.97371,32.52627,699541,,Africa/Cairo,PPLA
+Changzhi,China,CN,East and Southeast Asia,35.20889,111.73861,699514,,Asia/Shanghai,PPL
+Agadir,Morocco,MA,Africa,30.42018,-9.59815,698310,,Africa/Casablanca,PPLA
+Edogawe,Japan,JP,East and Southeast Asia,35.69225,139.87308,697932,0.0,Asia/Tokyo,PPLX
+Sarajevo,Bosnia and Herzegovina,BA,Europe,43.84864,18.35644,696731,,Europe/Sarajevo,PPLC
+Balikpapan,Indonesia,ID,East and Southeast Asia,-1.26753,116.82887,695287,,Asia/Makassar,PPLA2
+Adachi,Japan,JP,East and Southeast Asia,35.76318,139.80761,695043,,Asia/Tokyo,PPLX
+Bauchi,Nigeria,NG,Africa,10.31032,9.84388,693700,,Africa/Lagos,PPLA
+Shizuoka,Japan,JP,East and Southeast Asia,34.98333,138.38333,693389,,Asia/Tokyo,PPLA
+Tunis,Tunisia,TN,Africa,36.81897,10.16579,693210,,Africa/Tunis,PPLC
+Zhangjiakou,China,CN,East and Southeast Asia,40.78341,114.87139,692602,,Asia/Shanghai,PPLA2
+Serang,Indonesia,ID,East and Southeast Asia,-6.11528,106.15417,692101,,Asia/Jakarta,PPLA
+Washington,United States,US,North America,38.89511,-77.03637,689545,7.0,America/New_York,PPLC
+Nashville,United States,US,North America,36.16589,-86.78444,689447,170.0,America/Chicago,PPLA
+Fuxin,China,CN,East and Southeast Asia,42.01556,121.65889,689050,,Asia/Shanghai,PPL
+Ta'if,Saudi Arabia,SA,Middle East,21.27028,40.41583,688693,,Asia/Riyadh,PPL
+Changsha,China,CN,East and Southeast Asia,22.38124,112.68492,688242,,Asia/Shanghai,PPLA3
+Huangshi,China,CN,East and Southeast Asia,30.24706,115.04814,688090,,Asia/Shanghai,PPLA2
+Liaoyang,China,CN,East and Southeast Asia,41.27194,123.17306,687890,,Asia/Shanghai,PPL
+Hlaingthaya,Burma,MM,East and Southeast Asia,16.85,96.06667,687867,,Asia/Yangon,PPL
+Beira,Mozambique,MZ,Africa,-19.84361,34.83889,687764,,Africa/Maputo,PPLA
+Sorocaba,Brazil,BR,South America,-23.50167,-47.45806,687357,,America/Sao_Paulo,PPLA2
+Zaragoza,Spain,ES,Europe,41.65606,-0.87734,686986,,Europe/Madrid,PPLA
+Sevilla,Spain,ES,Europe,37.38283,-5.97317,686741,,Europe/Madrid,PPLA
+Baise,China,CN,East and Southeast Asia,23.89013,106.62684,686078,,Asia/Shanghai,PPLA2
+Situbondo,Indonesia,ID,East and Southeast Asia,-7.70623,114.00976,685967,,Asia/Jakarta,PPLA2
+Binzhou,China,CN,East and Southeast Asia,37.36667,118.01667,682717,,Asia/Shanghai,PPLA2
+Oklahoma City,United States,US,North America,35.46756,-97.51643,681054,366.0,America/Chicago,PPLA
+Yuncheng,China,CN,East and Southeast Asia,35.02306,110.99278,680036,,Asia/Shanghai,PPLA2
+Dezhou,China,CN,East and Southeast Asia,37.44661,116.36706,679535,,Asia/Shanghai,PPLA2
+Dushanbe,Tajikistan,TJ,Central Asia,38.53575,68.77905,679400,,Asia/Dushanbe,PPLC
+Cotonou,Benin,BJ,Africa,6.36536,2.41833,679012,,Africa/Porto-Novo,PPLG
+El Paso,United States,US,North America,31.75872,-106.48693,678815,1133.0,America/Denver,PPLA2
+Gorakhpur,India,IN,South Asia,26.76628,83.36889,674246,,Asia/Kolkata,PPL
+Guadalupe,Mexico,MX,North America,25.67678,-100.25646,673616,,America/Monterrey,PPLA2
+Wroclaw,Poland,PL,Europe,51.10286,17.03006,672545,,Europe/Warsaw,PPLA
+Guntur,India,IN,South Asia,16.29974,80.45729,670073,,Asia/Kolkata,PPL
+Katsina,Nigeria,NG,Africa,12.99082,7.60177,670000,,Africa/Lagos,PPLA
+Sanmenxia,China,CN,East and Southeast Asia,34.78081,111.19287,669307,,Asia/Shanghai,PPLA2
+E'zhou,China,CN,East and Southeast Asia,30.39607,114.88655,668727,,Asia/Shanghai,PPLA2
+Madinat an Nasr,Egypt,EG,Africa,30.06667,31.3,668413,,Africa/Cairo,PPLX
+Tabuk,Saudi Arabia,SA,Middle East,28.3998,36.57151,667000,,Asia/Riyadh,PPLA
+Kitwe,Zambia,ZM,Africa,-12.80243,28.21323,665961,,Africa/Lusaka,PPL
+Bulawayo,Zimbabwe,ZW,Africa,-20.15,28.58333,665952,,Africa/Harare,PPLA
+Mudanjiang,China,CN,East and Southeast Asia,44.54804,129.62594,665915,,Asia/Shanghai,PPLA2
+Aracaju,Brazil,BR,South America,-10.91111,-37.07167,664908,,America/Maceio,PPLA
+Athens,Greece,GR,Europe,37.98376,23.72784,664046,70.0,Europe/Athens,PPLC
+Zagreb,Croatia,HR,Europe,45.81444,15.97798,663592,,Europe/Zagreb,PPLC
+Leshan,China,CN,East and Southeast Asia,29.56227,103.76386,662814,,Asia/Shanghai,PPL
+Santo Andre,Brazil,BR,South America,-23.66389,-46.53833,662373,,America/Sao_Paulo,PPL
+Vancouver,Canada,CA,North America,49.24966,-123.11934,662248,,America/Vancouver,PPL
+Rizhao,China,CN,East and Southeast Asia,35.41414,119.52908,661943,,Asia/Shanghai,PPLA2
+Helsinki,Finland,FI,Europe,60.16952,24.93545,658864,,Europe/Helsinki,PPLC
+Cheonan,South Korea,KR,East and Southeast Asia,36.8065,127.1522,658831,,Asia/Seoul,PPL
+Pontianak,Indonesia,ID,East and Southeast Asia,-0.03194,109.325,658685,,Asia/Pontianak,PPLA
+Acapulco de Juarez,Mexico,MX,North America,16.84942,-99.90891,658609,,America/Mexico_City,PPL
+Banjarmasin,Indonesia,ID,East and Southeast Asia,-3.31987,114.59075,657663,,Asia/Makassar,PPLA2
+Puducherry,India,IN,South Asia,11.93381,79.82979,657209,,Asia/Kolkata,PPLA
+Suining,China,CN,East and Southeast Asia,30.50802,105.57332,656760,,Asia/Shanghai,PPLA3
+Brampton,Canada,CA,North America,43.68341,-79.76633,656480,,America/Toronto,PPL
+Puyang,China,CN,East and Southeast Asia,35.75641,115.04363,655674,,Asia/Shanghai,PPLA2
+Soacha,Colombia,CO,South America,4.57937,-74.21682,655025,,America/Bogota,PPLA2
+Boston,United States,US,North America,42.35843,-71.05977,653833,14.0,America/New_York,PPLA
+Tlalnepantla,Mexico,MX,North America,19.54005,-99.19538,653410,,America/Mexico_City,PPL
+Portland,United States,US,North America,45.52345,-122.67621,652503,12.0,America/Los_Angeles,PPLA2
+Tlaquepaque,Mexico,MX,North America,20.64121,-103.29342,650123,,America/Mexico_City,PPLA2
+Frankfurt am Main,Germany,DE,Europe,50.11552,8.68417,650000,,Europe/Berlin,PPLA3
+Macau,Macau,MO,East and Southeast Asia,22.20056,113.54611,649335,,Asia/Macau,PPLC
+Palermo,Italy,IT,Europe,38.1166,13.3636,648260,14.0,Europe/Rome,PPLA
+Izhevsk,Russia,RU,Central Asia,56.85225,53.19862,648213,,Europe/Samara,PPLA
+Colombo,Sri Lanka,LK,South Asia,6.93548,79.84868,648034,,Asia/Colombo,PPLC
+Maturin,Venezuela,VE,South America,9.74569,-63.18323,647459,,America/Caracas,PPLA
+Amravati,India,IN,South Asia,20.93333,77.75,647057,,Asia/Kolkata,PPLA2
+Detroit,United States,US,North America,42.33143,-83.04575,645705,183.0,America/Detroit,PPLA2
+Lodz,Poland,PL,Europe,51.77058,19.47395,645693,,Europe/Warsaw,PPLA
+Osogbo,Nigeria,NG,Africa,7.77104,4.55698,645000,,Africa/Lagos,PPLA
+Honcho,Japan,JP,East and Southeast Asia,35.70129,139.98648,644668,,Asia/Tokyo,PPLX
+Bikaner,India,IN,South Asia,28.01762,73.31495,644406,,Asia/Kolkata,PPL
+Jaboatao dos Guararapes,Brazil,BR,South America,-8.11278,-35.01472,644037,,America/Recife,PPLA2
+Las Vegas,United States,US,North America,36.17497,-115.13722,641903,610.0,America/Los_Angeles,PPLA2
+New South Memphis,United States,US,North America,35.08676,-90.05676,641608,79.0,America/Chicago,PPLX
+Hwaseong-si,South Korea,KR,East and Southeast Asia,37.20682,126.8169,640890,,Asia/Seoul,PPL
+Gold Coast,Australia,AU,Australia-Oceania,-28.00029,153.43088,640778,,Australia/Brisbane,PPL
+Al Ahmadi,Kuwait,KW,Middle East,29.07694,48.08389,637411,,Asia/Kuwait,PPLA
+Cuenca,Ecuador,EC,South America,-2.8953,-78.9963,636996,,America/Guayaquil,PPLA
+Chisinau,Moldova,MD,Europe,47.00902,28.85938,635994,,Europe/Chisinau,PPLC
+Likasi,DRC,CD,Africa,-10.98303,26.7384,635768,,Africa/Lubumbashi,PPL
+Hebi,China,CN,East and Southeast Asia,35.73231,114.28616,634721,,Asia/Shanghai,PPLA2
+Tshikapa,DRC,CD,Africa,-6.41621,20.79995,634529,,Africa/Lubumbashi,PPLA2
+Kochi,India,IN,South Asia,9.93988,76.26022,633553,,Asia/Kolkata,PPL
+Memphis,United States,US,North America,35.14953,-90.04898,633104,78.0,America/Chicago,PPLA2
+Jingmen,China,CN,East and Southeast Asia,31.03361,112.20472,632954,,Asia/Shanghai,PPLA2
+Barnaul,Russia,RU,Central Asia,53.36199,83.72786,632372,,Asia/Barnaul,PPLA
+Dandong,China,CN,East and Southeast Asia,40.12917,124.39472,631973,,Asia/Shanghai,PPL
+Stuttgart,Germany,DE,Europe,48.78232,9.17702,630305,,Europe/Berlin,PPLA
+Jeonju,South Korea,KR,East and Southeast Asia,35.82194,127.14889,629618,,Asia/Seoul,PPLA
+Bhilai,India,IN,South Asia,21.20919,81.4285,627734,,Asia/Kolkata,PPL
+Ndola,Zambia,ZM,Africa,-12.95867,28.63659,627503,,Africa/Lusaka,PPLA
+Contagem,Brazil,BR,South America,-19.93167,-44.05361,627123,,America/Sao_Paulo,PPL
+Ulyanovsk,Russia,RU,Central Asia,54.32824,48.38657,626540,,Europe/Ulyanovsk,PPLA
+Djibouti,Djibouti,DJ,Africa,11.58901,43.14503,626512,,Africa/Djibouti,PPLC
+Glasgow,United Kingdom,GB,Europe,55.86515,-4.25763,626410,,Europe/London,PPLA2
+Panshan,China,CN,East and Southeast Asia,41.18806,122.04944,625040,,Asia/Shanghai,PPL
+Louisville,United States,US,North America,38.25424,-85.75941,624444,142.0,America/Kentucky/Louisville,PPLA2
+Irkutsk,Russia,RU,Central Asia,52.29566,104.29076,623869,,Asia/Irkutsk,PPLA
+Ansan-si,South Korea,KR,East and Southeast Asia,37.32361,126.82194,623256,,Asia/Seoul,PPL
+Al Mansurah,Egypt,EG,Africa,31.03637,31.38069,621953,,Africa/Cairo,PPLA
+Kermanshah,Iran,IR,Middle East,34.31417,47.065,621100,,Asia/Tehran,PPLA
+Duesseldorf,Germany,DE,Europe,51.22172,6.77616,620523,,Europe/Berlin,PPLA
+Feira de Santana,Brazil,BR,South America,-12.26667,-38.96667,619609,,America/Bahia,PPL
+Jiaozhou,China,CN,East and Southeast Asia,36.28389,120.00333,619266,,Asia/Shanghai,PPLA3
+Suizhou,China,CN,East and Southeast Asia,31.71111,113.36306,618582,,Asia/Shanghai,PPLA2
+Villa Nueva,Guatemala,GT,Central America and Caribbean,14.52512,-90.58544,618397,,America/Guatemala,PPLA2
+Khabarovsk,Russia,RU,Central Asia,48.46204,135.0971,618150,,Asia/Vladivostok,PPLA
+Cuiaba,Brazil,BR,South America,-15.59611,-56.09667,618124,,America/Cuiaba,PPLA
+Arusha,Tanzania,TZ,Africa,-3.36667,36.68333,617631,,Africa/Dar_es_Salaam,PPLA
+Las Pinas,Philippines,PH,East and Southeast Asia,14.45056,120.98278,615549,,Asia/Manila,PPLA3
+Chizhou,China,CN,East and Southeast Asia,30.66134,117.47783,615274,,Asia/Shanghai,PPLA2
+Coyoacan,Mexico,MX,North America,19.3467,-99.16174,614447,,America/Mexico_City,PPL
+Ya'an,China,CN,East and Southeast Asia,29.98521,102.999,612056,,Asia/Shanghai,PPLA2
+Cuttack,India,IN,South Asia,20.46497,85.87927,610189,,Asia/Kolkata,PPL
+Borivli,India,IN,South Asia,19.23496,72.85976,609617,,Asia/Kolkata,PPL
+Yaroslavl,Russia,RU,Central Asia,57.62987,39.87368,608722,,Europe/Moscow,PPLA
+Goeteborg,Sweden,SE,Europe,57.70716,11.96679,608462,,Europe/Stockholm,PPLA
+Kawaguchi,Japan,JP,East and Southeast Asia,35.80521,139.71072,607373,,Asia/Tokyo,PPLA2
+Bukit Rahman Putra,Malaysia,MY,East and Southeast Asia,3.21727,101.5608,607000,,Asia/Kuala_Lumpur,PPL
+Jambi City,Indonesia,ID,East and Southeast Asia,-1.6,103.61667,606200,,Asia/Jakarta,PPLA
+Ha'il,Saudi Arabia,SA,Middle East,27.52188,41.69073,605930,,Asia/Riyadh,PPLA
+Bhavnagar,India,IN,South Asia,21.76287,72.15331,605882,,Asia/Kolkata,PPL
+Benoni,South Africa,ZA,Africa,-26.18848,28.32078,605344,,Africa/Johannesburg,PPL
+Vladivostok,Russia,RU,Central Asia,43.10562,131.87353,604901,,Asia/Vladivostok,PPLA
+Jinzhou,China,CN,East and Southeast Asia,41.10778,121.14167,604269,,Asia/Shanghai,PPL
+Tuxtla,Mexico,MX,North America,16.75357,-93.11578,604147,,America/Merida,PPLA
+Kryvyy Rih,Ukraine,UA,Europe,47.90572,33.39404,603904,84.0,Europe/Kyiv,PPLA2
+Sanming,China,CN,East and Southeast Asia,26.24861,117.61861,602166,,Asia/Shanghai,PPLA2
+Islamabad,Pakistan,PK,South Asia,33.72148,73.04329,601600,,Asia/Karachi,PPLC
+Sangli,India,IN,South Asia,16.85438,74.56417,601214,,Asia/Kolkata,PPL
+Jamnagar,India,IN,South Asia,22.47292,70.06673,600943,,Asia/Kolkata,PPL
+Lubango,Angola,AO,Africa,-14.91717,13.4925,600751,,Africa/Luanda,PPLA
+Pokhara,Nepal,NP,South Asia,28.26689,83.96851,600051,,Asia/Kathmandu,PPLA
+Shuangyashan,China,CN,East and Southeast Asia,46.67686,131.13273,600000,,Asia/Shanghai,PPLA2
+Borama,Somalia,SO,Africa,9.93611,43.18278,597842,,Africa/Mogadishu,PPL
+Pallabi,Bangladesh,BD,South Asia,23.825,90.37,597574,,Asia/Dhaka,PPLX
+Luancheng,China,CN,East and Southeast Asia,37.88452,114.64629,597130,,Asia/Shanghai,PPLA3
+Makhachkala,Russia,RU,Central Asia,42.97782,47.50027,596356,,Europe/Moscow,PPLA
+Anyang-si,South Korea,KR,East and Southeast Asia,37.3925,126.92694,595644,,Asia/Seoul,PPL
+Huambo,Angola,AO,Africa,-12.77611,15.73917,595304,,Africa/Luanda,PPLA
+Samarkand,Uzbekistan,UZ,Central Asia,39.65456,66.96445,595200,,Asia/Samarkand,PPLA
+Mengzi,China,CN,East and Southeast Asia,23.36779,103.38212,595100,,Asia/Shanghai,PPLA2
+Kagoshima,Japan,JP,East and Southeast Asia,31.56667,130.55,595049,,Asia/Tokyo,PPLA
+Mukalla,Yemen,YE,Middle East,14.54248,49.12424,594951,,Asia/Aden,PPLA
+Rasht,Iran,IR,Middle East,37.27611,49.58862,594590,,Asia/Tehran,PPLA
+Mar del Plata,Argentina,AR,South America,-38.00042,-57.5562,593337,,America/Argentina/Buenos_Aires,PPLA2
+Essen,Germany,DE,Europe,51.45657,7.01228,593085,,Europe/Berlin,PPLA3
+Al Mahallah al Kubra,Egypt,EG,Africa,30.97063,31.1669,592573,,Africa/Cairo,PPL
+Malaga,Spain,ES,Europe,36.72016,-4.42034,591637,,Europe/Madrid,PPLA2
+Shekhupura,Pakistan,PK,South Asia,31.71287,73.98556,591424,,Asia/Karachi,PPLA2
+Yingkou,China,CN,East and Southeast Asia,40.66472,122.23176,591159,,Asia/Shanghai,PPLA2
+Cimahi,Indonesia,ID,East and Southeast Asia,-6.87222,107.5425,590782,,Asia/Jakarta,PPL
+Zhangzhou,China,CN,East and Southeast Asia,24.51333,117.65556,589831,,Asia/Shanghai,PPLA2
+Reynosa,Mexico,MX,North America,26.08005,-98.28456,589466,,America/Matamoros,PPLA2
+Thuan An,Vietnam,VN,East and Southeast Asia,10.9239,106.71428,588616,,Asia/Ho_Chi_Minh,PPLA2
+Dortmund,Germany,DE,Europe,51.51494,7.466,588462,,Europe/Berlin,PPLA3
+Suginami,Japan,JP,East and Southeast Asia,36.2013,140.28406,588354,,Asia/Tokyo,PPLX
+Londrina,Brazil,BR,South America,-23.31028,-51.16278,588125,,America/Sao_Paulo,PPLA2
+Baltimore,United States,US,North America,39.29038,-76.61219,585708,10.0,America/New_York,PPLA2
+Itabashi,Japan,JP,East and Southeast Asia,35.74893,139.71497,584483,,Asia/Tokyo,PPLX
+New Kingston,Jamaica,JM,Central America and Caribbean,18.00747,-76.78319,583958,,America/Jamaica,PPLX
+Pelentong,Malaysia,MY,East and Southeast Asia,1.5243,103.824,583640,,Asia/Kuala_Lumpur,PPL
+Bucaramanga,Colombia,CO,South America,7.125,-73.11895,581130,,America/Bogota,PPLA
+Genoa,Italy,IT,Europe,44.40478,8.94439,580097,19.0,Europe/Rome,PPLA
+Hachioji,Japan,JP,East and Southeast Asia,35.65583,139.32389,579355,,Asia/Tokyo,PPLA2
+Malacca,Malaysia,MY,East and Southeast Asia,2.196,102.2405,579000,,Asia/Kuala_Lumpur,PPLA
+Nha Trang,Vietnam,VN,East and Southeast Asia,12.24507,109.19432,579000,,Asia/Ho_Chi_Minh,PPLA
+Khabarovsk Vtoroy,Russia,RU,Central Asia,48.43787,135.12994,578303,,Asia/Vladivostok,PPLX
+Kerman,Iran,IR,Middle East,30.28321,57.07879,577514,,Asia/Tehran,PPLA
+Orumiyeh,Iran,IR,Middle East,37.55274,45.07605,577307,,Asia/Tehran,PPLA
+Bahcelievler,Turkey,TR,Middle East,41.00231,28.8598,576799,,Europe/Istanbul,PPL
+Tanta,Egypt,EG,Africa,30.78847,31.00192,576648,,Africa/Cairo,PPLA
+Jammu,India,IN,South Asia,32.73528,74.86167,576198,,Asia/Kolkata,PPLA
+Iskandar Puteri,Malaysia,MY,East and Southeast Asia,1.39324,103.62322,575977,,Asia/Kuala_Lumpur,PPL
+Calamba,Philippines,PH,East and Southeast Asia,14.21167,121.16528,575046,,Asia/Manila,PPLA
+Tlalpan,Mexico,MX,North America,19.29513,-99.16206,574577,,America/Mexico_City,PPL
+Herat,Afghanistan,AF,South Asia,34.34817,62.19967,574300,,Asia/Kabul,PPLA
+Gujrat,Pakistan,PK,South Asia,32.5742,74.07542,574240,,Asia/Karachi,PPLA2
+Tomsk,Russia,RU,Central Asia,56.50049,84.98216,574002,,Asia/Tomsk,PPLA
+Juiz de Fora,Brazil,BR,South America,-21.76417,-43.35028,573285,,America/Sao_Paulo,PPLA2
+Umraniye,Turkey,TR,Middle East,41.01643,29.12476,573265,,Europe/Istanbul,PPL
+Shihezi,China,CN,East and Southeast Asia,44.3023,86.03694,572772,,Asia/Urumqi,PPLA3
+South Boston,United States,US,North America,42.33343,-71.04949,571281,14.0,America/New_York,PPLX
+Nakuru,Kenya,KE,Africa,-0.30719,36.07225,570674,,Africa/Nairobi,PPLA
+Hamilton,Canada,CA,North America,43.25011,-79.84963,569353,,America/Toronto,PPL
+Irbid,Jordan,JO,Middle East,32.55556,35.85,569068,,Asia/Amman,PPLA
+Manchester,United Kingdom,GB,Europe,53.48095,-2.23743,568996,,Europe/London,PPLA2
+Kota Bharu,Malaysia,MY,East and Southeast Asia,6.12361,102.24333,568900,,Asia/Kuala_Lumpur,PPLA
+Surrey,Canada,CA,North America,49.10635,-122.82509,568322,,America/Vancouver,PPL
+Meknes,Morocco,MA,Africa,33.89352,-5.54727,568295,,Africa/Casablanca,PPLA2
+Puente Alto,Chile,CL,South America,-33.61169,-70.57577,568106,,America/Santiago,PPLA2
+Nyala,Sudan,SD,Africa,12.04888,24.88069,565734,,Africa/Khartoum,PPLA
+Orenburg,Russia,RU,Central Asia,51.76712,55.09883,564773,,Asia/Yekaterinburg,PPLA
+Albuquerque,United States,US,North America,35.08449,-106.65114,564559,1511.0,America/Denver,PPLA2
+Bokaro,India,IN,South Asia,23.66934,86.15161,564319,,Asia/Kolkata,PPLA2
+Asmara,Eritrea,ER,Africa,15.33805,38.93184,563930,,Africa/Asmara,PPLC
+Sukkur,Pakistan,PK,South Asia,27.70323,68.85889,563851,,Asia/Karachi,PPLA2
+Uberlandia,Brazil,BR,South America,-18.91861,-48.27722,563536,,America/Sao_Paulo,PPL
+Milwaukee,United States,US,North America,43.0389,-87.90647,563531,188.0,America/Chicago,PPLA2
+Cho Lon,Vietnam,VN,East and Southeast Asia,10.75,106.65,561000,,Asia/Ho_Chi_Minh,PPLX
+Wenchang,China,CN,East and Southeast Asia,19.55158,110.80279,560894,,Asia/Shanghai,PPLA3
+Ile-Ife,Nigeria,NG,Africa,7.4824,4.56032,560000,,Africa/Lagos,PPLA2
+Gombe,Nigeria,NG,Africa,10.28969,11.16729,560000,,Africa/Lagos,PPLA
+Hamhung,North Korea,KP,East and Southeast Asia,39.91833,127.53639,559056,,Asia/Pyongyang,PPLA
+Kemerovo,Russia,RU,Central Asia,55.35417,86.10435,558973,,Asia/Novokuznetsk,PPLA
+Nasiriyah,Iraq,IQ,Middle East,31.05799,46.25726,558400,,Asia/Baghdad,PPLA
+Bloemfontein,South Africa,ZA,Africa,-29.12107,26.214,556637,,Africa/Johannesburg,PPLA
+Sheffield,United Kingdom,GB,Europe,53.38297,-1.4659,556500,,Europe/London,PPLA2
+Dresden,Germany,DE,Europe,51.05089,13.73832,556227,,Europe/Berlin,PPLA
+Santiago de Cuba,Cuba,CU,Central America and Caribbean,20.02287,-75.82171,555865,,America/Havana,PPLA
+Siping,China,CN,East and Southeast Asia,43.16143,124.37785,555609,,Asia/Shanghai,PPL
+Cuautitlan Izcalli,Mexico,MX,North America,19.64388,-99.21598,555163,,America/Mexico_City,PPL
+Benguela,Angola,AO,Africa,-12.57674,13.40268,555124,,Africa/Luanda,PPLA
+Chuxiong,China,CN,East and Southeast Asia,25.03639,101.54556,555081,,Asia/Shanghai,PPLA2
+Huaihua,China,CN,East and Southeast Asia,27.56337,110.00404,552622,,Asia/Shanghai,PPLA2
+Chiclayo,Peru,PE,South America,-6.77008,-79.85495,552508,,America/Lima,PPLA
+Binh Thanh,Vietnam,VN,East and Southeast Asia,10.811,106.706,552164,,Asia/Ho_Chi_Minh,PPLX
+Zahedan,Iran,IR,Middle East,29.4963,60.8629,551980,,Asia/Tehran,PPLA
+Banqiao,Taiwan,TW,East and Southeast Asia,25.01427,121.46719,551221,,Asia/Taipei,PPLA2
+Nanded,India,IN,South Asia,19.16023,77.31497,550564,,Asia/Kolkata,PPL
+Kozhikode,India,IN,South Asia,11.24802,75.7804,550440,,Asia/Kolkata,PPLA2
+Ulanqab,China,CN,East and Southeast Asia,40.993,113.133,550231,,Asia/Shanghai,PPLA2
+Cabinda,Angola,AO,Africa,-5.56198,12.19476,550000,,Africa/Luanda,PPLA
+Ajegunle,Nigeria,NG,Africa,6.45197,3.33115,550000,,Africa/Lagos,PPLA2
+Jiamusi,China,CN,East and Southeast Asia,46.79711,130.31118,549549,,Asia/Shanghai,PPLA2
+Korla,China,CN,East and Southeast Asia,41.76055,86.15231,549324,,Asia/Urumqi,PPLA2
+Kolhapur,India,IN,South Asia,16.69563,74.23167,549236,,Asia/Kolkata,PPL
+Porto Velho,Brazil,BR,South America,-8.76194,-63.90389,548952,,America/Porto_Velho,PPLA
+San Miguel de Tucuman,Argentina,AR,South America,-26.81601,-65.21051,548866,,America/Argentina/Tucuman,PPLA
+Kuantan,Malaysia,MY,East and Southeast Asia,3.8077,103.326,548014,,Asia/Kuala_Lumpur,PPLA
+Sevastopol,Ukraine,UA,Europe,44.60795,33.52134,547820,50.0,Europe/Simferopol,PPLA
+Nellore,India,IN,South Asia,14.44992,79.98697,547621,,Asia/Kolkata,PPLA2
+Mirpur Model Thana,Bangladesh,BD,South Asia,23.80931,90.36093,546503,,Asia/Dhaka,PPLX
+Bremen,Germany,DE,Europe,53.07582,8.80717,546501,,Europe/Berlin,PPLA
+Wanning,China,CN,East and Southeast Asia,18.79931,110.3841,545992,,Asia/Shanghai,PPLA2
+Owerri,Nigeria,NG,Africa,5.48363,7.03325,545000,,Africa/Lagos,PPLA
+Kota Kuala Muda,Malaysia,MY,East and Southeast Asia,5.58822,100.37085,544984,,Asia/Kuala_Lumpur,PPL
+Sungai Petani,Malaysia,MY,East and Southeast Asia,5.647,100.48772,544851,,Asia/Kuala_Lumpur,PPL
+Xinzhou,China,CN,East and Southeast Asia,38.40917,112.73333,544683,,Asia/Shanghai,PPLA2
+Koto,Japan,JP,East and Southeast Asia,32.77856,130.74537,543730,,Asia/Tokyo,PPL
+Kalaburagi,India,IN,South Asia,17.33583,76.83757,543147,,Asia/Kolkata,PPL
+Tucson,United States,US,North America,32.22174,-110.92648,542629,759.0,America/Phoenix,PPLA2
+Selayang Baru Utara,Malaysia,MY,East and Southeast Asia,3.2549,101.6668,542409,,Asia/Kuala_Lumpur,PPL
+Vilnius,Lithuania,LT,Europe,54.68916,25.2798,542366,,Europe/Vilnius,PPLC
+Ajmer,India,IN,South Asia,26.4521,74.63867,542321,,Asia/Kolkata,PPL
+Pingdu,China,CN,East and Southeast Asia,36.78444,119.94639,542234,,Asia/Shanghai,PPLA3
+Fresno,United States,US,North America,36.74773,-119.77237,542107,94.0,America/Los_Angeles,PPLA2
+Mbeya,Tanzania,TZ,Africa,-8.9,33.45,541603,,Africa/Dar_es_Salaam,PPLA
+Calabar,Nigeria,NG,Africa,4.95893,8.32695,540000,,Africa/Lagos,PPLA
+Oujda,Morocco,MA,Africa,34.68139,-1.90858,539711,,Africa/Casablanca,PPLA
+Novokuznetsk,Russia,RU,Central Asia,53.75752,87.13599,539616,,Asia/Novokuznetsk,PPLA2
+Ryazan',Russia,RU,Central Asia,54.62696,39.70415,538962,,Europe/Moscow,PPLA
+Ji'an,China,CN,East and Southeast Asia,27.11716,114.97927,538699,,Asia/Shanghai,PPLA2
+Sahiwal,Pakistan,PK,South Asia,30.66595,73.10186,538344,,Asia/Karachi,PPLA2
+Mersin,Turkey,TR,Middle East,36.81196,34.63886,537842,,Europe/Istanbul,PPLA
+Leeds,United Kingdom,GB,Europe,53.79648,-1.54785,536280,,Europe/London,PPLA2
+Poznan,Poland,PL,Europe,52.40692,16.92993,536151,,Europe/Warsaw,PPLA
+Guli,China,CN,East and Southeast Asia,28.88162,120.03308,536000,,Asia/Shanghai,PPL
+Aqsu,China,CN,East and Southeast Asia,41.18418,80.27921,535657,,Asia/Urumqi,PPLA2
+Ebute Ikorodu,Nigeria,NG,Africa,6.60086,3.48818,535619,,Africa/Lagos,PPL
+Tanggu,China,CN,East and Southeast Asia,39.02111,117.64694,535298,,Asia/Shanghai,PPL
+Pasir Gudang,Malaysia,MY,East and Southeast Asia,1.462,103.9053,534659,,Asia/Kuala_Lumpur,PPL
+Astrakhan,Russia,RU,Central Asia,46.34968,48.04076,533925,,Europe/Astrakhan,PPLA
+Okara,Pakistan,PK,South Asia,30.81029,73.45155,533693,,Asia/Karachi,PPLA2
+Nansana,Uganda,UG,Africa,0.36389,32.52861,532800,,Africa/Kampala,PPL
+Kimhae,South Korea,KR,East and Southeast Asia,35.23417,128.88111,531966,,Asia/Seoul,PPL
+Ar Raqqah,Syria,SY,Middle East,35.95283,39.00788,531952,,Asia/Damascus,PPLA
+Quebec,Canada,CA,North America,46.81228,-71.21454,531902,,America/Toronto,PPLA
+Cuauhtemoc,Mexico,MX,North America,19.44506,-99.14612,531831,,America/Mexico_City,PPL
+Shangluo,China,CN,East and Southeast Asia,33.86667,109.93056,531696,,Asia/Shanghai,PPLA2
+Himeji,Japan,JP,East and Southeast Asia,34.81667,134.7,530495,,Asia/Tokyo,PPLA2
+Ibague,Colombia,CO,South America,4.43573,-75.20289,529635,,America/Bogota,PPLA
+Antwerpen,Belgium,BE,Europe,51.22047,4.40026,529247,,Europe/Brussels,PPL
+Assiut,Egypt,EG,Africa,27.18096,31.18368,528669,,Africa/Cairo,PPLA
+Hamadan,Iran,IR,Middle East,34.79922,48.51456,528256,,Asia/Tehran,PPLA
+Qionghai,China,CN,East and Southeast Asia,19.2425,110.46417,528238,,Asia/Shanghai,PPLA2
+Cangzhou,China,CN,East and Southeast Asia,38.31124,116.85334,527681,,Asia/Shanghai,PPLA2
+Mohammadpur,Bangladesh,BD,South Asia,24.89843,88.52844,527571,,Asia/Dhaka,PPL
+Surakarta,Indonesia,ID,East and Southeast Asia,-7.55611,110.83167,526870,,Asia/Jakarta,PPL
+San Salvador,El Salvador,SV,Central America and Caribbean,13.68935,-89.18718,525990,,America/El_Salvador,PPLC
+Beihai,China,CN,East and Southeast Asia,21.48349,109.11549,525329,,Asia/Shanghai,PPLA2
+Van,Turkey,TR,Middle East,38.49457,43.38323,525016,,Europe/Istanbul,PPLA
+Sacramento,United States,US,North America,38.58157,-121.4944,524943,9.0,America/Los_Angeles,PPLA
+Thu GJuc,Vietnam,VN,East and Southeast Asia,10.84863,106.77209,524670,,Asia/Ho_Chi_Minh,PPLA2
+UEskuedar,Turkey,TR,Middle East,41.02274,29.01366,524452,,Europe/Istanbul,PPL
+Penza,Russia,RU,Central Asia,53.19568,45.01075,523553,,Europe/Moscow,PPLA
+Kandahar,Afghanistan,AF,South Asia,31.61332,65.71013,523300,,Asia/Kabul,PPLA
+Mazar-e Sharif,Afghanistan,AF,South Asia,36.70904,67.11087,523300,,Asia/Kabul,PPLA
+Hengshui,China,CN,East and Southeast Asia,37.73908,115.68348,522147,,Asia/Shanghai,PPLA2
+Dehradun,India,IN,South Asia,30.32443,78.03392,522081,,Asia/Kolkata,PPLA
+Erode,India,IN,South Asia,11.3428,77.72741,521891,,Asia/Kolkata,PPL
+Lyon,France,FR,Europe,45.74906,4.84789,520774,,Europe/Paris,PPLA
+Salta,Argentina,AR,South America,-24.80645,-65.41999,520683,,America/Argentina/Salta,PPLA
+Serra,Brazil,BR,South America,-20.12861,-40.30778,520653,,America/Sao_Paulo,PPL
+Esenler,Turkey,TR,Middle East,41.0435,28.87619,520235,,Europe/Istanbul,PPL
+Qui Nhon,Vietnam,VN,East and Southeast Asia,13.77648,109.22367,519208,,Asia/Ho_Chi_Minh,PPLA
+Al Fayyum,Egypt,EG,Africa,29.30995,30.8418,519047,,Africa/Cairo,PPLA
+Durgapur,India,IN,South Asia,23.51583,87.30801,518872,,Asia/Kolkata,PPL
+Utsunomiya,Japan,JP,East and Southeast Asia,36.56667,139.88333,518757,,Asia/Tokyo,PPLA
+Victoria de Durango,Mexico,MX,North America,24.02032,-104.65756,518709,,America/Monterrey,PPL
+Lisbon,Portugal,PT,Europe,38.72509,-9.1498,517802,,Europe/Lisbon,PPLC
+Rahim Yar Khan,Pakistan,PK,South Asia,28.41987,70.30345,517000,,Asia/Karachi,PPLA2
+Ulhasnagar,India,IN,South Asia,19.21667,73.15,516584,,Asia/Kolkata,PPL
+Guangyuan,China,CN,East and Southeast Asia,32.44201,105.823,516424,,Asia/Shanghai,PPLA2
+Loni,India,IN,South Asia,28.75143,77.29023,516082,,Asia/Kolkata,PPL
+Siliguri,India,IN,South Asia,26.71004,88.42851,515574,,Asia/Kolkata,PPL
+Nuernberg,Germany,DE,Europe,49.45421,11.07752,515543,,Europe/Berlin,PPLA3
+Ujjain,India,IN,South Asia,23.18239,75.77643,515215,,Asia/Kolkata,PPL
+Hannover,Germany,DE,Europe,52.37052,9.73322,515140,,Europe/Berlin,PPLA
+Edinburgh,United Kingdom,GB,Europe,55.95206,-3.19648,514990,,Europe/London,PPLA
+Azadshahr,Iran,IR,Middle East,34.79049,48.57011,514102,,Asia/Tehran,PPL
+Macapa,Brazil,BR,South America,0.03889,-51.06639,512902,,America/Belem,PPLA
+Xianning,China,CN,East and Southeast Asia,29.84347,114.32201,512517,,Asia/Shanghai,PPLA2
+Toulouse,France,FR,Europe,43.60426,1.44367,511684,,Europe/Paris,PPLA
+Thembisa,South Africa,ZA,Africa,-25.99636,28.2268,511655,,Africa/Johannesburg,PPL
+Matsuyama,Japan,JP,East and Southeast Asia,33.83916,132.76574,511192,,Asia/Tokyo,PPLA
+Campos dos Goytacazes,Brazil,BR,South America,-21.75227,-41.33044,511168,,America/Sao_Paulo,PPLA2
+Bilimora,India,IN,South Asia,20.76957,72.96134,510879,,Asia/Kolkata,PPL
+Kasur,Pakistan,PK,South Asia,31.11866,74.45025,510875,,Asia/Karachi,PPLA2
+Atlanta,United States,US,North America,33.749,-84.38798,510823,320.0,America/New_York,PPLA
+Aparecida de Goiania,Brazil,BR,South America,-16.82333,-49.24389,510770,,America/Sao_Paulo,PPL
+Heroica Matamoros,Mexico,MX,North America,25.87972,-97.50417,510739,,America/Matamoros,PPL
+Makati City,Philippines,PH,East and Southeast Asia,14.55027,121.03269,510383,,Asia/Manila,PPLA2
+"Mianzhu, Deyang, Sichuan",China,CN,East and Southeast Asia,31.33786,104.22057,510000,,Asia/Shanghai,PPLL
+Tonghua,China,CN,East and Southeast Asia,41.71972,125.92639,510000,,Asia/Shanghai,PPLA2
+Naberezhnyye Chelny,Russia,RU,Central Asia,55.73718,52.41961,509870,,Europe/Moscow,PPLA2
+Lipetsk,Russia,RU,Central Asia,52.5876,39.55151,509735,,Europe/Moscow,PPLA
+Kikwit,DRC,CD,Africa,-5.04098,18.81619,509367,,Africa/Kinshasa,PPL
+Florianopolis,Brazil,BR,South America,-27.59667,-48.54917,508826,,America/Sao_Paulo,PPLA
+Banan,China,CN,East and Southeast Asia,29.37861,106.54,508703,,Asia/Shanghai,PPLA3
+Newcastle,Australia,AU,Australia-Oceania,-32.92953,151.7801,508437,,Australia/Sydney,PPLA2
+Tuen Mun,Hong Kong,HK,East and Southeast Asia,22.39175,113.97157,507900,,Asia/Hong_Kong,PPLA
+Zhangye,China,CN,East and Southeast Asia,38.93417,100.45167,507433,,Asia/Shanghai,PPLA2
+Kirov,Russia,RU,Central Asia,58.59809,49.65783,507155,,Europe/Kirov,PPLA
+Kashgar,China,CN,East and Southeast Asia,39.46718,75.98675,506640,,Asia/Urumqi,PPLA2
+Mukim Pulai,Malaysia,MY,East and Southeast Asia,1.53333,103.66667,505661,,Asia/Kuala_Lumpur,PPL
+Najran,Saudi Arabia,SA,Middle East,17.49326,44.12766,505652,,Asia/Riyadh,PPLA
+Karol Bagh,India,IN,South Asia,28.65136,77.19072,505241,,Asia/Kolkata,PPLX
+Zhoukou,China,CN,East and Southeast Asia,33.63333,114.63333,505171,,Asia/Shanghai,PPLA2
+Leipzig,Germany,DE,Europe,51.33962,12.37129,504971,,Europe/Berlin,PPLA3
+Pingliang,China,CN,East and Southeast Asia,35.53917,106.68611,504848,,Asia/Shanghai,PPLA2
+Kalininskiy,Russia,RU,Central Asia,59.99675,30.3899,504641,,Europe/Moscow,PPLX
+Duisburg,Germany,DE,Europe,51.43247,6.76516,504358,,Europe/Berlin,PPLA3
+Asansol,India,IN,South Asia,23.68333,86.98333,504271,,Asia/Kolkata,PPLA2
+Arak,Iran,IR,Middle East,34.09493,49.69809,503647,,Asia/Tehran,PPLA
+Maipu,Chile,CL,South America,-33.51421,-70.7651,503635,,America/Santiago,PPL
+Homyel',Belarus,BY,Europe,52.4345,30.9754,501102,,Europe/Minsk,PPLA
+Aktobe,Kazakhstan,KZ,Central Asia,50.27969,57.20718,500757,,Asia/Aqtobe,PPLA
+Kota Kinabalu,Malaysia,MY,East and Southeast Asia,5.9749,116.0724,500421,,Asia/Kuching,PPLA
+Talatona,Angola,AO,Africa,-8.91783,13.18562,500000,,Africa/Luanda,PPL
+Kampung Larkin Lama,Malaysia,MY,East and Southeast Asia,1.5024,103.744,500000,,Asia/Kuala_Lumpur,PPL
+Kota Damansara,Malaysia,MY,East and Southeast Asia,3.15454,101.58022,500000,,Asia/Kuala_Lumpur,PPL
+Skopje,North Macedonia,MK,Europe,41.99646,21.43141,474889,,Europe/Skopje,PPLC
+Juba,South Sudan,SS,Africa,4.85165,31.58247,450000,,Africa/Juba,PPLC
+Bissau,Guinea-Bissau,GW,Africa,11.86357,-15.59767,439704,,Africa/Bissau,PPLC
+Bratislava,Slovakia,SK,Europe,48.14816,17.10674,423737,,Europe/Bratislava,PPLC
+Tirana,Albania,AL,Europe,41.32744,19.81866,418495,,Europe/Tirane,PPLC
+San Juan,Puerto Rico,PR,Central America and Caribbean,18.46633,-66.10572,418140,7.0,America/Puerto_Rico,PPLC
+Panama,Panama,PA,Central America and Caribbean,8.9936,-79.51973,408168,,America/Panama,PPLC
+Tallinn,Estonia,EE,Europe,59.43696,24.75353,394024,,Europe/Tallinn,PPLC
+Wellington,New Zealand,NZ,Australia-Oceania,-41.28664,174.77557,381900,,Pacific/Auckland,PPLC
+Canberra,Australia,AU,Australia-Oceania,-35.28346,149.12807,367752,,Australia/Sydney,PPLC
+Maseru,Lesotho,LS,Africa,-29.31667,27.48333,359753,,Africa/Maseru,PPLC
+Astana,Kazakhstan,KZ,Central Asia,51.1801,71.44598,345604,,Asia/Almaty,PPLC
+Doha,Qatar,QA,Middle East,25.28545,51.53096,344939,,Asia/Qatar,PPLC
+San Jose,Costa Rica,CR,Central America and Caribbean,9.93388,-84.08489,335007,,America/Costa_Rica,PPLC
+New Delhi,India,IN,South Asia,28.62137,77.2148,317797,,Asia/Kolkata,PPLC
+Port Moresby,Papua New Guinea,PG,East and Southeast Asia,-9.47723,147.15089,283733,,Pacific/Port_Moresby,PPLC
+Yamoussoukro,Côte d'Ivoire,CI,Africa,6.82055,-5.27674,275686,,Africa/Abidjan,PPLC
+Ljubljana,Slovenia,SI,Europe,46.05108,14.50513,272220,,Europe/Ljubljana,PPLC
+Porto-Novo,Benin,BJ,Africa,6.49646,2.60359,264320,,Africa/Porto-Novo,PPLC
+Gaborone,Botswana,BW,Africa,-24.65451,25.90859,246325,,Africa/Gaborone,PPLC
+Podgorica,Montenegro,ME,Europe,42.44124,19.26309,236852,,Europe/Podgorica,PPLC
+Georgetown,Guyana,GY,South America,6.80448,-58.15527,235017,,America/Guyana,PPLC
+Nassau,The Bahamas,BS,Central America and Caribbean,25.05823,-77.34306,227940,,America/Nassau,PPLC
+Sucre,Bolivia,BO,South America,-19.03332,-65.26274,224838,,America/La_Paz,PPLC
+Paramaribo,Suriname,SR,South America,5.86638,-55.16682,223757,,America/Paramaribo,PPLC
+Nicosia,Cyprus,CY,Europe,35.17284,33.35397,200452,,Asia/Nicosia,PPLC
+Vientiane,Laos,LA,East and Southeast Asia,17.96667,102.6,196731,,Asia/Vientiane,PPLC
+Port Louis,Mauritius,MU,Africa,-20.16194,57.49889,155226,,Indian/Mauritius,PPLC
+Saint-Denis,,FR,,-20.88231,55.4504,154765,,Indian/Reunion,PPLC
+Dili,Timor-Leste,TL,East and Southeast Asia,-8.55861,125.57361,150000,,Asia/Dili,PPLC
+Manama,Bahrain,BH,Middle East,26.22787,50.58565,147074,,Asia/Bahrain,PPLC
+Praia,Cabo Verde,CV,Africa,14.93152,-23.51254,137868,0.0,Atlantic/Cape_Verde,PPLC
+Willemstad,Curacao,CW,Central America and Caribbean,12.12246,-68.88641,125000,,America/Curacao,PPLC
+Bern,Switzerland,CH,Europe,46.94809,7.44744,121631,,Europe/Zurich,PPLC
+Reykjavik,Iceland,IS,Europe,64.13548,-21.89541,118918,,Atlantic/Reykjavik,PPLC
+Male,Maldives,MV,South Asia,4.17521,73.50916,103693,,Indian/Maldives,PPLC
+Thimphu,Bhutan,BT,South Asia,27.46609,89.64191,98676,2320.0,Asia/Thimphu,PPLC
+Bridgetown,Barbados,BB,Central America and Caribbean,13.10732,-59.62021,98511,,America/Barbados,PPLC
+Noumea,New Caledonia,NC,Australia-Oceania,-22.27407,166.44884,93060,,Pacific/Noumea,PPLC
+Fort-de-France,,FR,,14.60365,-61.07418,89995,,America/Martinique,PPLC
+Suva,Fiji,FJ,Australia-Oceania,-18.13683,178.42531,77366,,Pacific/Fiji,PPLC
+Luxembourg,Luxembourg,LU,Europe,49.60982,6.13268,76684,,Europe/Luxembourg,PPLC
+Mbabane,Eswatini,SZ,Africa,-26.31667,31.13333,76218,,Africa/Mbabane,PPLC
+Moroni,Comoros,KM,Africa,-11.70216,43.25506,74749,,Indian/Comoro,PPLC
+Gitega,Burundi,BI,Africa,-3.42708,29.92463,64904,,Africa/Bujumbura,PPLC
+Bandar Seri Begawan,Brunei,BN,East and Southeast Asia,4.89035,114.94006,64409,,Asia/Brunei,PPLC
+Cayenne,,FR,,4.9381,-52.33455,61550,,America/Cayenne,PPLC
+Kuwait City,Kuwait,KW,Middle East,29.367,47.97429,60064,,Asia/Kuwait,PPLC
+Honiara,Solomon Islands,SB,Australia-Oceania,-9.43333,159.95,56298,,Pacific/Guadalcanal,PPLC
+Mamoudzou,,FR,,-12.78234,45.22878,54831,,Indian/Mayotte,PPLC
+Sao Tome,Sao Tome and Principe,ST,Africa,0.33756,6.7299,53300,,Africa/Sao_Tome,PPLC
+Saint John's,Antigua and Barbuda,AG,Central America and Caribbean,17.12096,-61.84329,51737,,America/Antigua,PPLC
+Port of Spain,Trinidad and Tobago,TT,Central America and Caribbean,10.66668,-61.51889,49031,,America/Port_of_Spain,PPLC
+Saipan,Northern Mariana Islands,MP,Australia-Oceania,15.21233,145.7545,48220,5.0,Pacific/Saipan,PPLC
+Apia,Samoa,WS,Australia-Oceania,-13.83333,-171.76666,40407,,Pacific/Apia,PPLC
+Tarawa,Kiribati,KI,Australia-Oceania,1.3278,172.97696,40311,,Pacific/Tarawa,PPLC
+Banjul,The Gambia,GM,Africa,13.45274,-16.57803,37274,,Africa/Banjul,PPLC
+Port-Vila,Vanuatu,VU,Australia-Oceania,-17.73648,168.31366,35901,,Pacific/Efate,PPLC
+Monaco,Monaco,MC,Europe,43.73718,7.42145,32965,,Europe/Monaco,PPLC
+Oranjestad,Aruba,AW,Central America and Caribbean,12.52398,-70.02703,29998,5.0,America/Aruba,PPLC
+George Town,Cayman Islands,KY,Central America and Caribbean,19.2866,-81.37436,29370,,America/Cayman,PPLC
+Saint Helier,Jersey,JE,Europe,49.18804,-2.10491,28000,,Europe/Jersey,PPLC
+Gibraltar,Gibraltar,GI,Europe,36.14474,-5.35257,26544,,Europe/Gibraltar,PPLC
+Papeete,French Polynesia,PF,Australia-Oceania,-17.5347,-149.56843,26357,,Pacific/Tahiti,PPLC
+Douglas,Isle of Man,IM,Europe,54.15,-4.48333,26218,,Europe/Isle_of_Man,PPLC
+Majuro,Marshall Islands,MH,Australia-Oceania,7.08971,171.38027,25400,,Pacific/Majuro,PPLC
+Kingstown,Saint Vincent and the Grenadines,VC,Central America and Caribbean,13.15527,-61.22742,24518,,America/St_Vincent,PPLC
+Victoria,Seychelles,SC,Africa,-4.62001,55.45501,22881,,Indian/Mahe,PPLC
+Nuku'alofa,Tonga,TO,Australia-Oceania,-21.13683,-175.20114,22400,,Pacific/Tongatapu,PPLC
+Andorra la Vella,Andorra,AD,Europe,42.50779,1.52109,20430,,Europe/Andorra,PPLC
+Castries,Saint Lucia,LC,Central America and Caribbean,13.9957,-61.00614,20000,,America/St_Lucia,PPLC
+Charlotte Amalie,Virgin Islands,VI,Central America and Caribbean,18.3419,-64.9307,20000,6.0,America/St_Thomas,PPLC
+Roseau,Dominica,DM,Central America and Caribbean,15.30174,-61.38808,16571,,America/Dominica,PPLC
+Saint Peter Port,Guernsey,GG,Europe,49.45981,-2.53527,16488,,Europe/Guernsey,PPLC
+Nuuk,Greenland,GL,North America,64.18347,-51.72157,14798,5.0,America/Nuuk,PPLC
+Belmopan,Belize,BZ,Central America and Caribbean,17.25376,-88.76401,13381,,America/Belize,PPLC
+Avarua,Cook Islands,CK,Australia-Oceania,-21.2075,-159.77546,13373,,Pacific/Rarotonga,PPLC
+Torshavn,Faroe Islands,FO,Europe,62.00973,-6.77164,13200,,Atlantic/Faroe,PPLC
+Basseterre,Saint Kitts and Nevis,KN,Central America and Caribbean,17.2955,-62.72499,12920,-22.0,America/St_Kitts,PPLC
+Pago Pago,American Samoa,AS,Australia-Oceania,-14.27806,-170.7025,11500,2.0,Pacific/Pago_Pago,PPLC
+Basse-Terre,,FR,,15.99714,-61.73214,11472,,America/Guadeloupe,PPLC
+Mariehamn,,FI,,60.09726,19.93481,10682,,Europe/Mariehamn,PPLC
+Kralendijk,Navassa Island,BQ,Central America and Caribbean,12.15,-68.26667,10620,,America/Kralendijk,PPLC
+Road Town,British Virgin Islands,VG,Central America and Caribbean,18.42693,-64.62079,8449,9.0,America/Tortola,PPLC
