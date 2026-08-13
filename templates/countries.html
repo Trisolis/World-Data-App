@@ -1,0 +1,12 @@
+<!-- Table or card grid of all countries. Each row/card shows name, region, and key stats. Clickable to go to specific
+     country detail page. Region filter dropdown or search bar at top to narrow the list-->
+{% extends 'base.html' %}
+
+{% block title %}Countries List{% endblock %}
+
+{% block content %}
+    <h1>List of Countries</h1>
+    {% for country in countries %}
+        <p>{{ country['name'] }}</p>
+    {% endfor %}
+{% endblock %}
