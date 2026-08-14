@@ -1,15 +1,7 @@
 <!-- Searchable/filterable table of cities. Filter by country/region, sort by population. No individual city page needed -->
 {% extends 'base.html' %}
 
-{% block title %}
-    {% if current_region %}
-        Cities in {{ current_region }}
-    {% elif current_search %}
-        Search Results for "{{ current_search }}"
-    {% else %}
-        Cities List
-    {% endif %}
-{% endblock %}
+{% block title %}List of Cities{% endblock %}
 
 {% block content %}
     <!-- Dynamic header -->
@@ -33,6 +25,8 @@
             <option value="">All Regions</option>
             {% for region in regions %}
                 <option value="{{ region['region'] }}">{{ region['region'] }}</option>
+                    {{ 'selected' if current_region == region['region'] }}>
+                    {{ region['region'] }}
             {% endfor %}
         </select>
         <button type="submit">Filter</button>

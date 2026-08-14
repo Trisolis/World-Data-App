@@ -12,7 +12,48 @@ def get_db():
 # Home page, summary stats from the database
 @app.route('/')
 def home():
-    return render_template('index.html')
+    region = request.args.get('region')
+
+    conn = get_db()
+
+    if region:
+        stats = conn.execute('''
+            SELECT 
+                COUNT(DISTINCT c.iso_code) AS country_count,
+                COUNT(DISTINCT ci.name) AS cities_count,
+                SUM(i.population) AS total_population,
+                SUM(e.gdp) AS total_gdp,
+                AVG(i.hdi) AS avg_hdi,
+                AVG(i.life_expectancy) as avg_life_expectancy,
+                AVG(i.literacy_rate) as avg_literacy,
+                AVG(e.unemployment) as avg_unemployment
+            FROM countries c 
+            LEFT JOIN indicators i ON c.iso_code=i.iso_code
+            LEFT JOIN economy e ON c.iso_code=e.iso_code
+            LEFT JOIN cities ci ON c.iso_code=ci.iso2
+            WHERE c.region = ?
+
+        ''', (region,)).fetchone()
+    else:
+        stats = conn.execute('''
+            SELECT 
+                COUNT(DISTINCT c.iso_code) AS country_count,
+                COUNT(DISTINCT ci.name) AS cities_count,
+                SUM(i.population) AS total_population,
+                SUM(e.gdp) AS total_gdp,
+                AVG(i.hdi) AS avg_hdi,
+                AVG(i.life_expectancy) as avg_life_expectancy,
+                AVG(i.literacy_rate) as avg_literacy,
+                AVG(e.unemployment) as avg_unemployment
+            FROM countries c 
+            LEFT JOIN indicators i ON c.iso_code=i.iso_code
+            LEFT JOIN economy e ON c.iso_code=e.iso_code
+            LEFT JOIN cities ci ON c.iso_code=ci.iso2
+        ''').fetchone()
+
+    regions = conn.execute('SELECT DISTINCT region FROM countries ORDER BY region').fetchall()
+    conn.close()
+    return render_template('index.html', stats=stats, regions=regions, current_region=region)
 
 # Lists all countries, perhaps filtered by region
 @app.route('/countries')
@@ -94,5 +135,9 @@ def cities():
     conn.close()
     return render_template('cities.html', cities=results, regions=regions, current_region=region, current_search=search)
 
+@app.errorhandler(404)
+def not_found(e):
+    return render_template('404.html'), 404
+
 if __name__ == '__main__':
-    app.run(debug=True) # remove before deploying
+    app.run()
