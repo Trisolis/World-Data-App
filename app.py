@@ -29,20 +29,19 @@ def countries():
     return render_template('countries.html', countries=results)
 
 # Display a specific country and its data
-@app.route('/countries/<iso_code>')
+@app.route('/country/<iso_code>')
 def country(iso_code):
     conn = get_db()
     results = conn.execute('''
-        SELECT * 
+        SELECT c.*, i.population, i.birth_rate, i.death_rate, i.life_expectancy, i.literacy_rate, i.density, i.hdi, e.gdp_ppp,
+               e.gdp_per_capita, e.inflation, e.unemployment, e.public_debt_pct, e.gdp
         FROM countries c
-        JOIN indicators i ON c.iso_code=i.iso_code
-        JOIN economy e ON c.iso_code=e.iso_code
-        JOIN cities c2 ON c.iso_code=c2.iso_code
-        WHERE c.iso_code == {country_code}
-        ''')
-    # query db for this country
-    # get its indicators/data (definitely needs to be fixed up)
-    return render_template('country.html', data=results)
+        LEFT JOIN indicators i ON c.iso_code=i.iso_code
+        LEFT JOIN economy e ON c.iso_code=e.iso_code
+        WHERE c.iso_code == ?
+        ''', (iso_code,)).fetchone()
+    conn.close()
+    return render_template('country.html', country=results)
 
 @app.route('/cities')
 def cities():

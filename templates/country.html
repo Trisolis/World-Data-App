@@ -1,2 +1,8 @@
 <!-- Everything I have on said country. All columns from all four tables -->
 {% extends 'base.html' %}
+
+{% block title %}{{ country['name']}} Data{% endblock %}
+
+{% block content %}
+    <h1>{{ country['name']}}</h1>
+{% endblock %}
