@@ -1,8 +1,20 @@
 <!-- Everything I have on said country. All columns from all four tables -->
 {% extends 'base.html' %}
 
-{% block title %}{{ country['name']}} Data{% endblock %}
+{% block title %}{{ country['name' ]}} Data{% endblock %}
 
 {% block content %}
-    <h1>{{ country['name']}}</h1>
+    <h1>{{ country['name'] }}</h1>
+    <p>Region: {{ country['region'] }}</p>
+    <p>Area: {{ country['area'] }} km²</p>
+    <h2>Economic Data</h2>
+    <p>GDP: ${{ country['gdp'] }}</p>
+    <p>GDP Per Capita: ${{ country['gdp_per_capita'] }}</p>
+    <p>Inflation: {{ country['inflation'] }}%</p>
+    <p>Unemployment: {{ country['unemployment'] }}%</p>
+    <h2>Other Indicators</h2>
+    <p>Population: {{ country['population'] }}</p>
+    <p>HDI: {{ country['hdi'] }}</p>
+    <p>Life Expectancy: {{ country['life_expectancy'] }} years</p>
+    <p>Literacy Rate: {{ country['literacy_rate'] }}%</p>
 {% endblock %}
