@@ -1,42 +1,68 @@
 <!-- Table or card grid of all countries. Each row/card shows name, region, and key stats. Clickable to go to specific
-     country detail page. Region filter dropdown or search bar at top to narrow the list-->
+    country detail page. Region filter dropdown or search bar at top to narrow the list-->
 {% extends 'base.html' %}
 
 {% block title %}List of Countries{% endblock %}
 
 {% block content %}
     <!-- Dynamic header -->
-    {% if current_region %}
-        <h1>Countries in {{ current_region }}</h1>
-    {% elif current_search %}
-        <h1>Search Results for "{{ current_search }}"</h1>
-    {% else %}
-        <h1>Countries</h1>
-    {% endif %}
+        <h1 class="mb-4">
+        {% if current_region %}
+            Countries in {{ current_region }}
+        {% elif current_search %}
+            Search Results for "{{ current_search }}"
+        {% else %}
+            Countries
+        {% endif %}
+    </h1>
 
-    <!-- Search functionality -->
-    <form method="GET" action="/countries">
-        <input type="text" name="search" placeholder="Search countries...">
-        <button type="submit">Search</button>
-    </form>
-
-    <!-- Filtering by region functionality -->
-    <form method="GET" action="/countries">
-        <select name="region">
-            <option value="">All Regions</option>
-            {% for region in regions %}
-                <option value="{{ region['region'] }}">{{ region['region'] }}</option>
-                    {{ 'selected' if current_region == region['region'] }}>
-                    {{ region['region'] }}
-            {% endfor %}
-        </select>
-        <button type="submit">Filter</button>
-    </form>
+    <!-- Search and region filtering functionality -->
+    <div class="row g-2 mb-4">
+        <div class="col-auto">
+            <form method="GET" action="/countries" class="d-flex gap-2">
+                <input type="text" name="search" class="form-control" 
+                placeholder="Search countries..."
+                value="{{ current_search if current_search else '' }}">
+                <button type="submit" class="btn btn-primary">Search</button>
+            </form>
+        </div>
+        <div class="col-auto">
+        </div>
+        <div class="col-auto">
+            <form method="GET" action="/countries" class="d-flex gap-2">
+                <select name="region" class="form-select">
+                    <option value="">All Regions</option>
+                    {% for region in regions %}
+                        <option value="{{ region['region'] }}"
+                            {{ 'selected' if current_region == region['region'] }}>
+                            {{ region['region'] }}
+                        </option>
+                    {% endfor %}
+                </select>
+                <button type="submit" class="btn btn-primary">Filter</button>
+            </form>
+        </div>
+    </div>
 
     <!-- Countries printout -->
-    {% for country in countries %}
-        <p><a href="{{ url_for('country', iso_code=country['iso_code']) }}">
-            {{ country['name'] }}
-        </a></p>
-    {% endfor %}
+    <table class="table table-striped table-hover">
+        <thead class="table-dark">
+            <tr>
+                <th>Country</th>
+                <th>Region</th>
+                <th>Area</th>
+            </tr>
+        </thead>
+        <tbody>
+            {% for country in countries %}
+            <tr>
+                <td>
+                    <a href="{{ url_for('country', iso_code=country['iso_code']) }}">{{ country['name'] }}</a>
+                </td>
+                <td>{{ country['region'] }}</td>
+                <td>{{ "{:,}".format(country['area']) if country['area'] else 'N/A' }} km²</td>
+            </tr>
+            {% endfor %}
+        </tbody>
+    </table>
 {% endblock %}
