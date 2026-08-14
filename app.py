@@ -14,21 +14,35 @@ def get_db():
 def home():
     return render_template('index.html')
 
-'''
-# Accepts query parameter and searches countries by name (should redirect to /countries?region=Europe or something similar)
-@app.route('/search?q=<something>')
-def search():
-    # code here
-    pass
-'''
-
 # Lists all countries, perhaps filtered by region
 @app.route('/countries')
 def countries():
+    region = request.args.get('region')
+    search = request.args.get('search')
+
     conn = get_db()
-    results = conn.execute('SELECT * FROM countries').fetchall()
+
+    if region:
+        results = conn.execute('''
+            SELECT * FROM countries
+            WHERE region = ?
+            ORDER BY name
+        ''', (region,)).fetchall()
+    elif search:
+        results = conn.execute('''
+            SELECT * FROM countries
+            WHERE name LIKE ?
+            ORDER BY name
+        ''', (f'%{search}%',)).fetchall()
+    else:
+        results = conn.execute('''
+            SELECT * FROM countries
+            ORDER BY name
+        ''').fetchall()
+
+    regions = conn.execute('SELECT DISTINCT region FROM countries ORDER BY region').fetchall()
     conn.close()
-    return render_template('countries.html', countries=results)
+    return render_template('countries.html', countries=results, regions=regions, current_region=region, current_search=search)
 
 # Display a specific country and its data
 @app.route('/country/<iso_code>')
@@ -46,8 +60,39 @@ def country(iso_code):
 
 @app.route('/cities')
 def cities():
+    region = request.args.get('region')
+    search = request.args.get('search')
+
     conn = get_db()
-    return render_template('cities.html')
+
+    
+    if region:
+        results = conn.execute('''
+            SELECT ci.*, co.name as country_name, co.region
+            FROM cities ci
+            JOIN countries co ON ci.iso2 = co.iso_code
+            WHERE co.region = ?
+            ORDER BY ci.population DESC
+        ''', (region,)).fetchall()
+    elif search:
+        results = conn.execute('''
+            SELECT ci.*, co.name as country_name, co.region
+            FROM cities ci
+            JOIN countries co ON ci.iso2 = co.iso_code
+            WHERE ci.name LIKE ? OR co.name LIKE ?
+            ORDER BY ci.population DESC
+        ''', (f'%{search}%', f'%{search}%')).fetchall()
+    else:
+        results = conn.execute('''
+            SELECT ci.*, co.name as country_name, co.region
+            FROM cities ci
+            JOIN countries co ON ci.iso2 = co.iso_code
+            ORDER BY ci.population DESC
+        ''').fetchall()
+
+    regions = conn.execute('SELECT DISTINCT region FROM countries ORDER BY region').fetchall()
+    conn.close()
+    return render_template('cities.html', cities=results, regions=regions, current_region=region, current_search=search)
 
 if __name__ == '__main__':
     app.run(debug=True) # remove before deploying

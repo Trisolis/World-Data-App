@@ -6,14 +6,14 @@
 {% block content %}
     <h1>{{ country['name'] }}</h1>
     <p>Region: {{ country['region'] }}</p>
-    <p>Area: {{ country['area'] }} km²</p>
+    <p>Area: {{ "{:,}".format(country['area']) }} km²</p>
     <h2>Economic Data</h2>
-    <p>GDP: ${{ country['gdp'] }}</p>
-    <p>GDP Per Capita: ${{ country['gdp_per_capita'] }}</p>
+    <p>GDP: ${{ "{:,}".format(country['gdp']) }}</p>
+    <p>GDP Per Capita: ${{ "{:,}".format(country['gdp_per_capita']) }}</p>
     <p>Inflation: {{ country['inflation'] }}%</p>
     <p>Unemployment: {{ country['unemployment'] }}%</p>
     <h2>Other Indicators</h2>
-    <p>Population: {{ country['population'] }}</p>
+    <p>Population: {{ "{:,}".format(country['population']) }}</p>
     <p>HDI: {{ country['hdi'] }}</p>
     <p>Life Expectancy: {{ country['life_expectancy'] }} years</p>
     <p>Literacy Rate: {{ country['literacy_rate'] }}%</p>
