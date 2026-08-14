@@ -4,17 +4,41 @@
 {% block title %}{{ country['name' ]}} Data{% endblock %}
 
 {% block content %}
-    <h1>{{ country['name'] }}</h1>
-    <p>Region: {{ country['region'] if country['region'] else 'N/A' }}</p>
-    <p>Area: {{ "{:,}".format(country['area']) if country['area'] else 'N/A' }} km²</p>
-    <h2>Economic Data</h2>
-    <p>GDP: ${{ "{:,}".format(country['gdp']) if country['gdp'] else 'N/A' }}</p>
-    <p>GDP Per Capita: ${{ "{:,}".format(country['gdp_per_capita']) if country['gdp_per_capita'] else 'N/A' }}</p>
-    <p>Inflation: {{ country['inflation'] if country['inflation'] else 'N/A' }}%</p>
-    <p>Unemployment: {{ country['unemployment'] if country['unemployment'] else 'N/A' }}%</p>
-    <h2>Other Indicators</h2>
-    <p>Population: {{ "{:,}".format(country['population']) if country['population'] else 'N/A' }}</p>
-    <p>HDI: {{ country['hdi'] if country['hdi'] else 'N/A' }}</p>
-    <p>Life Expectancy: {{ country['life_expectancy'] if country['life_expectancy'] else 'N/A' }} years</p>
-    <p>Literacy Rate: {{ country['literacy_rate'] if country['literacy_rate'] else 'N/A' }}%</p>
+    <a href="{{ url_for('countries') }}" class="btn btn-outline-secondary" btn-sm mb-4>Back to Countries</a>
+    <h1 class="mb-1 mt-4">{{ country['name'] }}</h1>
+    <p class="text-muted mb-4">Region: {{ country['region'] if country['region'] else 'N/A' }}</p>
+
+    <div class="row g-4">
+        <div class="col-md-4">
+            <div class="card h-100">
+                <div class="card-header bg-dark text-white">Geography</div>
+                <div class="card-body">
+                    <p><strong>ISO Code:</strong> {{ country['iso_code'] }}</p>
+                    <p><strong>Area:</strong> {{ "{:,}".format(country['area']) if country['area'] else 'N/A' }} km²</p>
+                    <p><strong>Population:</strong> {{ "{:,}".format(country['population']) if country['population'] else 'N/A' }}</p>
+                </div>
+            </div>
+        </div>
+        <div class="col-md-4">
+            <div class="card h-100">
+                <div class="card-header bg-dark text-white">Economy</div>
+                <div class="card-body">
+                    <p><strong>GDP:</strong> ${{ "{:,}".format(country['gdp']) if country['gdp'] else 'N/A' }}</p>
+                    <p><strong>GDP Per Capita:</strong> ${{ "{:,}".format(country['gdp_per_capita']) if country['gdp_per_capita'] else 'N/A' }}</p>
+                    <p><strong>Inflation:</strong> {{ country['inflation'] if country['inflation'] else 'N/A' }}%</p>
+                    <p><strong>Unemployment:</strong> {{ country['unemployment'] if country['unemployment'] else 'N/A' }}%</p>
+                </div>
+            </div>
+        </div>
+        <div class="col-md-4">
+            <div class="card h-100">
+                <div class="card-header bg-dark text-white">Development</div>
+                <div class="card-body">
+                    <p><strong>HDI:</strong> {{ country['hdi'] if country['hdi'] else 'N/A' }}</p>
+                    <p><strong>Life Expectancy:</strong> {{ country['life_expectancy'] if country['life_expectancy'] else 'N/A' }} years</p>
+                    <p><strong>Literacy Rate:</strong> {{ country['literacy_rate'] if country['literacy_rate'] else 'N/A' }}%</p>
+                </div>
+            </div>
+        </div>
+    </div>
 {% endblock %}
