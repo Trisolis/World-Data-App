@@ -23,4 +23,11 @@ Note: This project includes cleaned CSVs and schema.py from the SQL World Data p
 8. Visit http://127.0.0.1:5000
 
 ## Example Usage
-Will fill out when pages have been stylized
+### Home page
+![home.html](/images/home.png)
+### Countries page
+![countries.html](/images/countries.png)
+### Specific Country page
+![country<US>.html](/images/country.png)
+### Cities page
+![city.html](/images/cities.png)

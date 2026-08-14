@@ -44,15 +44,15 @@
     </div>
 
     <!-- Cities printout -->
-    <table class="table table-striped table-hover">
+    <table class="table table-striped table-hover" style="table-layout: fixed; width: 100%;">
         <thead class="table-dark">
             <tr>
-                <th>Rank</th>
-                <th>City</th>
-                <th>Country</th>
-                <th>Region</th>
-                <th>Population</th>
-                <th>Capital?</th>
+                <th style="width: 7%;">Rank</th>
+                <th style="width: 20%;">City</th>
+                <th style="width: 16%;">Country</th>
+                <th style="width: 25%;">Region</th>
+                <th style="width: 22%;">Population</th>
+                <th style="width: 10%;">Capital?</th>
             </tr>
         </thead>
         <tbody>
@@ -64,7 +64,7 @@
                 <td>{{ city['region'] }}</td>
                 <td>{{ "{:,}".format(city['population']) }}</td>
                 <td class="text-center">
-                    <span style="position: relative; left: -15px;">
+                    <span style="position: relative; left: -25px;">
                         {{ '✓' if city['feature_code'] == 'PPLC' else '' }}
                     </span>
                 </td>

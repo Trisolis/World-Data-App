@@ -20,7 +20,12 @@ def home():
         stats = conn.execute('''
             SELECT 
                 COUNT(DISTINCT c.iso_code) AS country_count,
-                COUNT(DISTINCT ci.name) AS cities_count,
+                (
+                    SELECT COUNT(*)
+                    FROM cities ci
+                    JOIN countries c2 ON c2.iso_code=ci.iso2
+                    WHERE c2.region = ?
+                ) AS cities_count,
                 SUM(i.population) AS total_population,
                 SUM(e.gdp) AS total_gdp,
                 AVG(i.hdi) AS avg_hdi,
@@ -30,15 +35,14 @@ def home():
             FROM countries c 
             LEFT JOIN indicators i ON c.iso_code=i.iso_code
             LEFT JOIN economy e ON c.iso_code=e.iso_code
-            LEFT JOIN cities ci ON c.iso_code=ci.iso2
             WHERE c.region = ?
 
-        ''', (region,)).fetchone()
+        ''', (region, region)).fetchone()
     else:
         stats = conn.execute('''
             SELECT 
                 COUNT(DISTINCT c.iso_code) AS country_count,
-                COUNT(DISTINCT ci.name) AS cities_count,
+                (SELECT COUNT(*) FROM cities) AS cities_count,
                 SUM(i.population) AS total_population,
                 SUM(e.gdp) AS total_gdp,
                 AVG(i.hdi) AS avg_hdi,
@@ -48,7 +52,6 @@ def home():
             FROM countries c 
             LEFT JOIN indicators i ON c.iso_code=i.iso_code
             LEFT JOIN economy e ON c.iso_code=e.iso_code
-            LEFT JOIN cities ci ON c.iso_code=ci.iso2
         ''').fetchone()
 
     regions = conn.execute('SELECT DISTINCT region FROM countries ORDER BY region').fetchall()

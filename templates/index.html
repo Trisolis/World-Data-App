@@ -11,28 +11,89 @@
 {% endblock %}
 
 {% block content %}
-    <h1>{{ current_region if current_region else 'Global' }} Statistics</h1> 
+    <h1 class="mb-4">{{ current_region if current_region else 'Global' }} Statistics</h1> 
 
     <!-- Filtering by region functionality -->
-    <form method="GET" action="/">
-        <select name="region">
-            <option value="">All Regions</option>
-            {% for region in regions %}
-                <option value="{{ region['region'] }}">{{ region['region'] }}</option>
-                    {{ 'selected' if current_region == region['region'] }}>
-                    {{ region['region'] }}
-            {% endfor %}
-        </select>
-        <button type="submit">Filter</button>
-    </form>   
+    <div class="mb-4">
+        <form method="GET" action="/" class="d-flex gap-2" style="max-width: 300px;">
+            <select name="region" class="form-select">
+                <option value="">All Regions</option>
+                {% for region in regions %}
+                    <option value="{{ region['region'] }}"
+                        {{ 'selected' if current_region == region['region'] }}>
+                        {{ region['region'] }}
+                    </option>
+                {% endfor %}
+            </select>
+            <button type="submit" class="btn btn-primary">Filter</button>
+        </form>
+    </div>
 
-    <!-- Printout statistics w/ formatting and missing data handling -->
-    <p>Countries: {{ stats['country_count'] }}</p>
-    <p>Major Cities: {{ stats['cities_count'] }}</p>
-    <p>Population: {{ "{:,}".format(stats['total_population']) if stats['total_population'] else 'N/A' }}</p>
-    <p>Total GDP: ${{ "{:,.0f}".format(stats['total_gdp']) if stats['total_gdp'] else 'N/A' }}</p>
-    <p>Average HDI: {{ "{:.3f}".format(stats['avg_hdi']) if stats['avg_hdi'] else 'N/A' }}</p>
-    <p>Average Life Expectancy: {{ "{:.1f}".format(stats['avg_life_expectancy']) if stats['avg_life_expectancy'] else 'N/A' }}</p>
-    <p>Average Literacy Rate: {{ "{:.1f}".format(stats['avg_literacy']) if stats['avg_literacy'] else 'N/A' }}%</p>
-    <p>Average Unemployment: {{ "{:.1f}".format(stats['avg_unemployment']) if stats['avg_unemployment'] else 'N/A' }}%</p>
+    <!-- Printout statistics w/ formatting and missing data handling-->
+    <div class="row g-3">
+        <div class="col-md-3">
+            <div class="card text-center h-100">
+                <div class="card-body">
+                    <h6 class="card-subtitle mb-2 text-muted">Countries</h6>
+                    <h3 class="card-title">{{ stats['country_count'] }}</h3>
+                </div>
+            </div>
+        </div>
+        <div class="col-md-3">
+            <div class="card text-center h-100">
+                <div class="card-body">
+                    <h6 class="card-subtitle mb-2 text-muted">Major Cities</h6>
+                    <h3 class="card-title">{{ stats['cities_count'] }}</h3>
+                </div>
+            </div>
+        </div>
+        <div class="col-md-3">
+            <div class="card text-center h-100">
+                <div class="card-body">
+                    <h6 class="card-subtitle mb-2 text-muted">Total Population</h6>
+                    <h3 class="card-title">{{ "{:,}".format(stats['total_population']) if stats['total_population'] else 'N/A' }}</h3>
+                </div>
+            </div>
+        </div>
+        <div class="col-md-3">
+            <div class="card text-center h-100">
+                <div class="card-body">
+                    <h6 class="card-subtitle mb-2 text-muted">Total GDP</h6>
+                    <h3 class="card-title">${{ "{:,.0f}".format(stats['total_gdp']) if stats['total_gdp'] else 'N/A' }}</h3>
+                </div>
+            </div>
+        </div>
+    <div class="row g-3 mt-2">
+        <div class="col-md-3">
+            <div class="card text-center h-100">
+                <div class="card-body">
+                    <h6 class="card-subtitle mb-2 text-muted">Avg HDI</h6>
+                    <h3 class="card-title">{{ "{:.3f}".format(stats['avg_hdi']) if stats['avg_hdi'] else 'N/A' }}</h3>
+                </div>
+            </div>
+        </div>
+        <div class="col-md-3">
+            <div class="card text-center h-100">
+                <div class="card-body">
+                    <h6 class="card-subtitle mb-2 text-muted">Avg Life Expectancy</h6>
+                    <h3 class="card-title">{{ "{:.1f}".format(stats['avg_life_expectancy']) if stats['avg_life_expectancy'] else 'N/A' }} years</h3>
+                </div>
+            </div>
+        </div>
+        <div class="col-md-3">
+            <div class="card text-center h-100">
+                <div class="card-body">
+                    <h6 class="card-subtitle mb-2 text-muted">Avg Literacy Rate</h6>
+                    <h3 class="card-title">{{ "{:.1f}".format(stats['avg_literacy']) if stats['avg_literacy'] else 'N/A' }}%</h3>
+                </div>
+            </div>
+        </div>
+        <div class="col-md-3">
+            <div class="card text-center h-100">
+                <div class="card-body">
+                    <h6 class="card-subtitle mb-2 text-muted">Avg Unemployment</h6>
+                    <h3 class="card-title">{{ "{:.1f}".format(stats['avg_unemployment']) if stats['avg_unemployment'] else 'N/A' }}%</h3>
+                </div>
+            </div>
+        </div>
 {% endblock %}
